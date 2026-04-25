@@ -1,0 +1,107 @@
+[
+  {
+    "id": 553,
+    "content": "### Scene\nMirror selfie in an otaku-style computer corner, blue color tone.\n\n### Subject\n* Gender expression: female\n* Age: around 25\n* Ethnicity: East Asian\n* Body type: slim, with a defined waist; natural body proportions\n* Skin tone: light neutral tone\n* Hairstyle:\n    * Length: waist-length hair\n    * Style: straight with slightly curled ends\n    * Color: medium brown\n* Pose:\n    * Stance: standing in a slight contrapposto pose\n    * Right hand: holding a smartphone in front of her face (identity hidden)\n    * Left arm: naturally hanging down alongside the torso\n    * Torso: body leaning slightly back; waist and abdomen exposed\n* Clothing:\n    * Top: light blue cropped knit cardigan, top two buttons fastened; a blue French-style bra faintly visible\n    * Bottom: denim ultra-short shorts, with a blue satin ribbon bow on each side of the hips\n    * Socks: blue and white horizontal striped over-the-knee socks\n    * Accessory: a blue cute mascot phone case\n\n### Environment\n* Description: bedroom computer corner seen through a wall-mounted mirror\n* Furnishings:\n    * White desk\n    * Single monitor showing a soft blue wallpaper (no readable text)\n    * Mechanical keyboard with white keycaps on a blue desk mat\n    * Mouse on a small blue mouse pad\n    * PC tower on the right side with blue case lighting\n    * Three anime figures on or near the PC tower\n    * A poster of a pagoda on the wall\n    * Cat-shaped desk lamp with blue accents\n    * A transparent glass of water\n    * A tall green leafy plant by the window (on the left side of the frame)\n* Color replacement: replace all originally pink elements (clothes and room decor) with blue tones (baby blue to sky blue/periwinkle blue).\n\n### Lighting\n* Light source: daylight coming from a large window on the left side of the camera, through sheer curtains\n* Light quality: soft, diffused light\n* White balance (K): 5200\n\n### Camera\n* Mode: smartphone rear camera shooting via the mirror (no portrait/bokeh mode)\n* Equivalent focal length (mm): 26\n* Distances (m):\n    * Subject to mirror: 0.6\n    * Camera to mirror: 0.5\n* Exposure:\n    * Aperture (f): 1.8\n    * ISO: 100\n    * Shutter speed (s): 0.01\n    * Exposure compensation (EV): -0.3\n* Focus: focus on the torso and shorts in the mirror image\n* Depth of field: natural smartphone deep depth of field; background clearly visible with no artificial blur\n* Composition:\n    * Aspect ratio: 1:1\n    * Crop: from the top of the head to mid-thigh; include the desk, monitor, PC tower, and plant in the frame\n    * Angle: slightly high angle from the mirror’s point of view\n    * Composition note: keep the subject centered; to avoid wide-angle edge distortion, have her stand a bit further away and crop to a square later.\n\n### Negative prompts\n* Any appearance of pink/magenta anywhere\n* Beauty filters/over-smoothed skin; poreless skin look\n* Exaggerated or distorted anatomy\n* NSFW, see-through fabrics, wardrobe malfunctions\n* Logos, brand names, or readable user interface text\n* Fake portrait-mode blur, CGI/illustration feel",
+    "title": "Detailed mirror-selfie otaku room scene",
+    "description": "A very detailed Nano Banana prompt describing a female mirror selfie in a blue-toned otaku computer corner, with full specifications for character, environment, lighting, camera, and negative prompts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763889946850_689z0h_G23i3sJW0AASGUw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15119,
+    "content": "A young woman with fair skin, freckles across her face and shoulders, and striking blue eyes is kneeling on a thick, fluffy white rug in a {argument name=\"setting\" default=\"messy bedroom\"}. She has long, vibrant blonde hair that she is actively gathering with both hands to tie into a high ponytail; her right hand holds the base of the ponytail near the crown of her head while her left hand pulls the length of her hair through. She is wearing a {argument name=\"top\" default=\"fitted white ribbed tank top\"} and {argument name=\"bottoms\" default=\"pink gym shorts bottoms\"}. Her expression is direct and slightly serious as she looks straight at the camera from a high angle. The bedroom background features an unmade bed with rumpled light-colored sheets and pillows, scattered clothes on the floor and bed, a white nightstand with a modern lamp, a stack of books, a big poster of one piece, a little neon written 'XSydneyFan' on wall, and a window with sheer curtains letting in natural daylight. The overall scene has a casual, lived-in atmosphere with soft natural lighting. 2:3ar don't change face",
+    "title": "Casual Bedroom Portrait",
+    "description": "A detailed prompt for a casual, lived-in bedroom scene featuring a woman tying her hair, with specific background elements like posters and neon signs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014230320_rhxyhz_HGm6Hr6akAANwm7.jpg",
+      "https://cms-assets.youmind.com/media/1777014230422_bgcorl_HGm6HrlbIAAtFJ_.jpg",
+      "https://cms-assets.youmind.com/media/1777014230409_c2npy6_HGm6Hr7a0AAPLjf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15118,
+    "content": "Ultra-photorealistic raw studio portrait, 85mm lens f/2.0, full-frame camera look. Exact uploaded face reference preserved with all natural asymmetries, pores, and skin texture — no beautification. Subject standing slightly off-center in relaxed confident pose, one hand in pocket of {argument name=\"clothing\" default=\"oversized brown blazer with dropped shoulders\"}, other hand holding {argument name=\"prop\" default=\"small bouquet of slightly wilted pastel flowers\"}. Light beige wrinkled button-up shirt loosely tucked, thin brown tie worn off-center, high-waisted wide-leg checkered trousers, black leather shoes. {argument name=\"background\" default=\"Muted olive-green background and soft beige floor\"}. Soft diffused key light from side with gentle shadows and warm tone falloff. Low-saturation Kodak Portra cinematic grading, matte finish, high-end editorial fashion mood",
+    "title": "Fashion Editorial Studio Portrait",
+    "description": "A high-end fashion editorial prompt featuring a subject in an oversized blazer with specific clothing details and lighting for a raw, professional studio look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014230050_3v1ow4_HGmGXM5aUAIYjU6.jpg",
+      "https://cms-assets.youmind.com/media/1777014230344_g9xpee_HGmGXMrbgAAZGRi.jpg",
+      "https://cms-assets.youmind.com/media/1777014230080_1sbxiw_HGmGXOdagAArO9x.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15132,
+    "content": "{\n  \"prompt_details\": {\n    \"subject\": \"{argument name=\"subject\" default=\"A woman with long, voluminous curly auburn hair standing in a misty, atmospheric outdoor setting.\"}\",\n    \"fashion_elements\": {\n      \"clothing\": \"{argument name=\"outfit\" default=\"Long-sleeved, midnight blue velvet dress with a simple round neckline.\"}\",\n      \"jewelry\": \"Delicate gold layered necklaces, one featuring a small circular pendant.\"\n    },\n    \"composition\": {\n      \"framing\": \"Medium shot, centered portrait with the subject looking directly at the viewer with a neutral, contemplative expression.\",\n      \"background\": \"{argument name=\"background\" default=\"Moody, desaturated forest or stone background obscured by thick fog and shadows.\"}\",\n      \"lighting\": \"Natural, overcast, and moody lighting that emphasizes the rich texture of the velvet and the highlights in her hair.\"\n    },\n    \"aesthetic_tags\": [\n      \"Dark Fantasy\",\n      \"Ethereal\",\n      \"Cinematic Portrait\",\n      \"Gothic Forest\",\n      \"Textural Contrast\"\n    ],\n    \"color_palette\": [\n      \"Midnight Blue\",\n      \"Auburn\",\n      \"Slate Gray\",\n      \"Moss Green\",\n      \"Gold\"\n    ]\n  }\n}",
+    "title": "Gothic Forest Ethereal Portrait",
+    "description": "An atmospheric prompt for a gothic cinematic portrait featuring a woman in a velvet dress within a misty forest background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014236128_e9v1aa_HGmF3kyXMAA3rbT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15139,
+    "content": "A cinematic mirror selfie inside a dark metallic elevator an {argument name=\"subject\" default=\"American white young man\"} with sharp jawline and facial features clean shaved and {argument name=\"outfit\" default=\"leather jacket\"} holds a spinning {argument name=\"energy color\" default=\"blue\"} energy spiral in his left palm while capturing himself on phone. His anime counterpart stands directly behind him: white spiky hair, black mask, purple jacket, radiating matching blue cursed energy. The reflection in the steel doors shows both worlds merging. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
+    "title": "Anime World Elevator Mirror Selfie",
+    "description": "A cinematic prompt for Nano Banana Pro featuring a mirror selfie in an elevator where a man's anime counterpart appears behind him with magical energy effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014239240_e7xbwg_HGmAwljWQAA8Vn9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15137,
+    "content": "Photorealistic indoor portrait of a {argument name=\"subject\" default=\"young adult woman\"} with long straight light-brown hair and soft bangs, fair skin with visible freckles, glossy lips, and subtle makeup, posing on a bed in a {argument name=\"setting\" default=\"manga-themed bedroom\"}. She is wearing a {argument name=\"outfit style\" default=\"monochrome black outfit\"} with a cropped top, layered ruffled skirt, oversized detached knit sleeves, and fishnet stockings. The wall behind her is covered in black-and-white manga panels, creating a high-contrast anime-inspired backdrop. Soft natural window light, muted tones, cozy bedroom atmosphere, detailed skin texture, editorial fashion photography, shallow depth of field, centered composition, high detail.",
+    "title": "Photorealistic manga-themed bedroom portrait",
+    "description": "A detailed prompt for creating a high-contrast photorealistic portrait of a woman in a monochrome manga-themed bedroom with soft natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014238422_1ijbms_HGlg-CzacAA7_no.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15115,
+    "content": "Use the provided source image as the sole identity reference. Preserve the subject’s facial features, likeness, and recognizability with high fidelity.\nRecompose the image into a tight close-up or upper-body editorial crop, ensuring the face dominates the frame. Disregard the original framing entirely.\nTransform the portrait into a high-fashion gestural ink illustration. The visual style must be driven by bold, expressive black brushwork rather than fine or delicate sketch lines.\nApply the following stylistic elements:\nVery thick, heavy black brush strokes as the primary structure\nBroad dry-brush sweeps with visible texture\nLarge, asymmetrical black ink masses shaping the composition\nLong, loose, calligraphic strokes for dynamic flow\nBroken and incomplete contours\nScratchy, energetic secondary linework for detail accents\nStrong black-on-ivory contrast\nSmooth, minimal, monochrome skin rendering\nEnsure the thick brush strokes dominate the image. Avoid clean, polished, or softly illustrated aesthetics. The result should feel raw, expressive, and painterly—like it was created with a heavily loaded brush and finished with sharp, confident pen marks.\nMaintain a stylish, high-fashion editorial tone.\nInclude one hero accessory: {argument name=\"accessory\" default=\"oversized translucent tinted sunglasses\"}. The accent color {argument name=\"accent color\" default=\"[ACCENT_COLOR]\"} must be primarily expressed within this accessory, especially as a bold luminous tint in the lenses.\nAllow only minimal, subtle traces of the same accent color elsewhere in the composition.\nKeep the background clean, minimal, and unobtrusive.\nDo not include any text, typography, or poster-style elements.",
+    "title": "High-Fashion Ink Illustration Portrait",
+    "description": "A detailed prompt for generating a high-fashion editorial portrait in a gestural ink illustration style, characterized by bold brushwork, high contrast, and a specific accessory accent.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014228660_9prw3b_HGlZo7QaAAAk_Zu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15122,
+    "content": "{\n  \"subject\": {\n    \"description\": \"A young man with wavy, tousled hair, wearing {argument name=\"accessories\" default=\"dark sunglasses\"}, a {argument name=\"shirt\" default=\"white t-shirt\"}, a {argument name=\"outerwear\" default=\"dark zip-up jacket\"}, and light-wash jeans.\",\n    \"poses\": [\n      \"Sitting with one hand touching his chin in a thoughtful, pensive gesture.\",\n      \"Sitting with hands clasped together, looking slightly to the side.\"\n    ]\n  },\n  \"setting\": {\n    \"location\": \"Outdoor concrete environment\",\n    \"background\": \"A textured, industrial concrete wall with visible streaks and weathering.\",\n    \"lighting\": \"High-contrast sunlight creating a sharp diagonal shadow across the subject and the background.\"\n  },\n  \"aesthetic\": {\n    \"color_profile\": \"Black and white (monochrome)\",\n    \"mood\": \"Moody, urban, and cinematic\",\n    \"photography_style\": \"Portraiture with harsh directional lighting and heavy shadows\"\n  },\n  \"composition\": {\n    \"framing\": \"Medium shot, seated position\",\n    \"focal_point\": \"Subject's profile and expressions against the stark concrete backdrop\"\n  }\n}",
+    "title": "Industrial Concrete Portrait",
+    "description": "A structured JSON-style prompt for an urban, moody black and white portrait of a man in an industrial environment with high-contrast lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014231856_ujigr1_HGlYpdmWkAA2Uzo.jpg",
+      "https://cms-assets.youmind.com/media/1777014231895_otuq1g_HGlYpmdWcAAVf0y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15117,
+    "content": "{ \n\"meta\": { \n\"aspect_ratio\": \"4:5\", \n\"quality\": \"ultra_photorealistic\",\n \"resolution\": \"4k\",\n \"camera\": \"iPhone 15 Pro front camera\", \n\"lens\": \"24mm wide\",\n \"style\": \"raw iPhone indoor selfie realism, natural mobile HDR, sharp detailed foreground and background, crisp skin, knit, faux-fur, and leather texture, no blur, no softness, no muddy rendering\"\n },\n\"character_lock\": {\n \"hair\": [ \n\"platinum blonde hair\", \n\"soft shaggy layered bob\",\n \"airy volume\", \n\"flipped feathered ends\", \n\"wispy face-framing fringe\"\n ],\n \"skin\": [ \n\"fair skin tone\", \n\"real skin texture\",\n \"soft freckles across cheeks and nose\", \n\"rosy blush\",\n \"not plastic\", \n\"not over-smoothed\"\n ],\n \"features\": [\n \"large doll-like eyes\",\n \"soft lower-lash eyeliner\", \n\"white inner-corner makeup accents\", \n\"small pouty lips\",\n \"cute but slightly eerie expression\"\n ],\n \"body\": [\n \"soft feminine build\",\n \"realistic adult proportions\", \n\"normal adult head size\",\n \"realistic head-to-body ratio\", \n\"no oversized head\", \n\"no anatomy distortion\"\n ]\n },\n\"scene\": {\n \"location\": \"modern apartment interior\", \"environment\": [\n \"dark kitchen island\", \n\"white bar stools\", \n\"clean open-plan kitchen in the background\",\n \"neutral rug and living room area\", \n\"soft daylight entering from the side\"\n ], \n\"atmosphere\": \"cute fantasy-costume selfie, cozy apartment setting, soft but dark whimsical energy\" \n},\n\"lighting\": { \n\"type\": \"strong natural window light\",\n \"key_light\": \"warm sunlight falling across face, hair, sweater, and corset\", \n\"fill_light\": \"subtle room bounce from pale floor and walls\", \n\"effect\": \"clean realistic exposure, crisp shadows, glowing skin, sharp knit and leather texture, readable room detail\", \n\"avoid\": [\n \"studio lighting\",\n \"flash\",\n \"blurry background\", \n\"soft focus\", \n\"muddy rendering\" \n] \n},\n\"camera_perspective\": { \n\"pov\": \"we ARE her phone\", \n\"angle\": \"slightly high close selfie angle\",\n \"distance\": \"close-medium framing\",\n \"framing\": \"head, chest, and upper torso dominate the frame with apartment background still readable\", \"phone_visibility\": \"not visible\" \n},\n\"subject\": { \n\"gender\": \"female\", \n\"age\": \"21+ adult\",\n \"expression\": { \n\"eyes\": \"soft direct gaze toward camera\",\n \"mouth\": \"small pout\", \n\"emotion\": \"cute, quiet, slightly dangerous\"\n }, \n\"pose\": { \n\"position\": \"standing indoors taking a close selfie\", \"head\": \"slight tilt downward toward camera\", \"shoulders\": \"relaxed\", \n\"body\": \"upright with chest and torso facing camera\"\n },\n \"outfit\": { \n\"headwear\": { \n\"type\": \"{argument name=\"headpiece\" default=\"large black fantasy antler headpiece\"}\", \"details\": \"dramatic textured antlers rising above the head\"\n },\n \"top\": {\n \"type\": \"{argument name=\"clothing\" default=\"cream ribbed knit long-sleeve sweater\"}\", \"fit\": \"soft fitted knit with visible vertical rib texture\"\n }, \n\"neck\": { \n\"type\": \"white faux-fur collar\", \n\"details\": \"thick soft fluffy texture framing the neck\"\n }, \n\"corset\": { \n\"type\": \"brown leather corset belt or harness\", \"details\": \"structured leather with buckle fastenings\" } } } }",
+    "title": "Ultra-Photorealistic Fantasy Selfie",
+    "description": "A complex, structured prompt for a realistic indoor selfie with fantasy elements, including high-fidelity character details and specific lighting conditions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014229319_5wn8wx_HGlSrV0XkAAMIjz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15116,
+    "content": "Use the uploaded photo as the ONLY and EXACT facial reference. Preserve facial identity with absolute priority: exact facial features, natural hair color and all original appearance details. No beautification, no stylization, no changes to the face. If any conflict occurs - preserve the face exactly. A young woman captured as a spontaneous iPhone shot in the {argument name=\"location\" default=\"backseat of a moving car\"} during {argument name=\"time of day\" default=\"vibrant nightlife\"} leaning forward dynamically with energetic vibe and sharp turn of her head.",
+    "title": "Nightlife Car Ride Portrait",
+    "description": "A prompt designed for generating a spontaneous iPhone-style portrait of a woman in a moving car at night, with a strong focus on preserving facial identity from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014229105_pky9i2_HGlHBzzbEAEXmaf.jpg"
+    ],
+    "needReferenceImages": true
+  }
+]

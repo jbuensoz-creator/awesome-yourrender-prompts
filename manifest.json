@@ -1,0 +1,72 @@
+{
+  "name": "awesome-yourrender-prompts",
+  "totalPrompts": 100,
+  "categories": [
+    {
+      "slug": "social-media-post",
+      "title": "Social Media Post",
+      "file": "prompts/social-media-post.json",
+      "count": 25
+    },
+    {
+      "slug": "product-marketing",
+      "title": "Product Marketing",
+      "file": "prompts/product-marketing.json",
+      "count": 20
+    },
+    {
+      "slug": "profile-avatar",
+      "title": "Profile / Avatar",
+      "file": "prompts/profile-avatar.json",
+      "count": 10
+    },
+    {
+      "slug": "poster-flyer",
+      "title": "Poster / Flyer",
+      "file": "prompts/poster-flyer.json",
+      "count": 10
+    },
+    {
+      "slug": "ecommerce-main-image",
+      "title": "E-commerce Main Image",
+      "file": "prompts/ecommerce-main-image.json",
+      "count": 8
+    },
+    {
+      "slug": "infographic-edu-visual",
+      "title": "Infographic / Edu Visual",
+      "file": "prompts/infographic-edu-visual.json",
+      "count": 7
+    },
+    {
+      "slug": "game-asset",
+      "title": "Game Asset",
+      "file": "prompts/game-asset.json",
+      "count": 5
+    },
+    {
+      "slug": "comic-storyboard",
+      "title": "Comic / Storyboard",
+      "file": "prompts/comic-storyboard.json",
+      "count": 5
+    },
+    {
+      "slug": "youtube-thumbnail",
+      "title": "YouTube Thumbnail",
+      "file": "prompts/youtube-thumbnail.json",
+      "count": 5
+    },
+    {
+      "slug": "app-web-design",
+      "title": "App / Web Design",
+      "file": "prompts/app-web-design.json",
+      "count": 3
+    },
+    {
+      "slug": "others",
+      "title": "Uncategorized",
+      "file": "prompts/others.json",
+      "count": 2
+    }
+  ]
+}

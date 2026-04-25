@@ -1,0 +1,26 @@
+[
+  {
+    "id": 151,
+    "content": "A wide quote card featuring a famous person, with a brown background and a light-gold serif font for the quote: “{argument name=\"famous_quote\" default=\"Stay Hungry, Stay Foolish\"}” and smaller text: “—{argument name=\"author\" default=\"Steve Jobs\"}.” There is a large, subtle quotation mark before the text. The portrait of the person is on the left, the text on the right. The text occupies two-thirds of the image and the portrait one-third, with a slight gradient transition effect on the portrait.",
+    "title": "Wide quote card with portrait and Chinese/English customization",
+    "description": "A prompt for generating a wide quote card featuring a famous person’s portrait, with a brown background, light-gold serif quote text, and layout where text occupies two-thirds and the person one-third. The quote text and author are parameterized for reuse.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg",
+      "https://cms-assets.youmind.com/media/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg",
+      "https://cms-assets.youmind.com/media/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg",
+      "https://cms-assets.youmind.com/media/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13310,
+    "content": "remove the drummer and the drum kit, leave everything else exactly as is.",
+    "title": "Image Editing Prompt for Nano Banana 2",
+    "description": "A simple image editing prompt used with Nano Banana 2 to remove a drummer and drum kit from an existing frame, leaving the rest of the image untouched.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775631279711_ztt45r_HFTbvC_XoAArdCl.jpg",
+      "https://cms-assets.youmind.com/media/1775631279812_k640z2_HFTbwFpWAAAX37T.jpg"
+    ],
+    "needReferenceImages": true
+  }
+]

@@ -1,0 +1,265 @@
+[
+  {
+    "id": 498,
+    "content": "Completely recreate the uploaded person.\nMake it a header image for a note article where that person introduces “Nano Banana Pro”.\nAspect ratio: horizontal 16:9.\nStyle and colors: simple, hand-drawn style, italic, with a blue and green gradient.\nTitle text: “In-depth explanation of Google’s new AI ‘Nano Banana Pro’”.",
+    "title": "Hand-drawn style header image prompt from photo",
+    "description": "Prompt for a hand-drawn style header image of a person introducing Nano Banana Pro",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885651870_4szbai_G6VZiROagAAqsIh.jpg",
+      "https://cms-assets.youmind.com/media/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 4031,
+    "content": "[Key: Maintain precise facial features, retain original face structure, the character in the image must be completely consistent with the uploaded reference image] High-end photo studio 2x2 grid photo. Top-left panel (Navy Blue background): The character wears a navy blue uniform-style dress, decorated with gold buttons, vintage curls with a blue beret and pearl earrings. She holds up a huge puzzle piece (top-left piece, with the number \"20\" on it) with both hands, moving it towards the center of the frame. Her eyes are focused on the central puzzle area, her expression is serious, with a slight smile. The background features navy stripes, an anchor, and the text \"Set Sail for the New Year\". Top-right panel (Cherry Blossom Pink background): The same woman wears a pink lace dress, a pearl necklace, a princess hairstyle with a pink rose hairpin and crystal earrings. She holds up the top-right puzzle piece (with the number \"26\" on it) with both hands, moving it towards the center to connect with the top-left piece. Her eyes look at the puzzle seam, her expression is focused and expectant, and her body leans forward. The background features pink cherry blossoms, the text \"Beautiful Encounter\", butterflies, and petals. Bottom-left panel (Mint Green background): The same woman wears a mint green cotton and linen dress, in an artistic style, with natural long hair, a green hairband, and wooden earrings. She holds up the bottom-left puzzle piece (with the text \"New Year's Day\" on it) with both hands, moving it upwards to connect with the top-left piece. Her eyes look at the puzzle, her expression is serious, and her mouth is slightly pursed. The background features green plants, the text \"Hope Grows\", new sprouts, and leaves. Bottom-right panel (Lemon Yellow background): The same woman wears a yellow dress with a sunflower pattern, pigtails with yellow bows. She pushes in the last bottom-right puzzle piece (with the text \"Happy\" on it) to complete the puzzle. The four pieces perfectly form the complete pattern \"2026 New Year's Day Happy\" in the center of the frame. She tilts her head back, looking at the completed puzzle, her face beaming with a successful, joyful smile. The center of the frame bursts with golden light and confetti. The background features a yellow sun, the text \"Complete Success\", smiley faces, and sunflowers. The puzzle pieces converge from the four corners to the center to form a complete picture. Clear makeup, bright ring light, 85mm lens, f/1.8 aperture, four-panel composition with puzzle interaction, fashion magazine style.",
+    "title": "New Year's Day Special: Four-Panel Puzzle for 2026 Blessing",
+    "description": "A detailed multi-panel prompt for Nano Banana Pro, creating a 2x2 grid photo collage where a single female character, in four different outfits and settings, pieces together a puzzle that spells '2026 New Year's Day Happy' in the center. The prompt specifies precise facial feature retention, clothing details, background elements, and photographic parameters for a fashion magazine style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767455034932_ivuvu0_G9V-MszakAEAIBw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 532,
+    "content": "Please generate an advertisement image.\n\n==== Ad specifications ===\n- Aspect ratio: 16:9 (horizontal)\n- Product to advertise: the book in the first attached image\n- Main eye-catcher: place the book from the first attached image in a three-dimensional way\n- Language: Japanese\n- Taste: advertisement for a business book\n\n# Text to include:\n- Pre-head copy: 【New print run decided about one week after release】\n\nBook “{argument name=\"book_title_en\" default=\"Designing from Zero with AI\"}” now on sale and doing well.\n\nAmazon Best Seller Ranking\nRanked No.1 in commercial design sales (as of 10/15)\nhttps://t.co/QxbYpfFVj6",
+    "title": "Train-ad style book advertisement image",
+    "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885539326_yao7in_G6WBYReawAAcp2x.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 553,
+    "content": "### Scene\nMirror selfie in an otaku-style computer corner, blue color tone.\n\n### Subject\n* Gender expression: female\n* Age: around 25\n* Ethnicity: East Asian\n* Body type: slim, with a defined waist; natural body proportions\n* Skin tone: light neutral tone\n* Hairstyle:\n    * Length: waist-length hair\n    * Style: straight with slightly curled ends\n    * Color: medium brown\n* Pose:\n    * Stance: standing in a slight contrapposto pose\n    * Right hand: holding a smartphone in front of her face (identity hidden)\n    * Left arm: naturally hanging down alongside the torso\n    * Torso: body leaning slightly back; waist and abdomen exposed\n* Clothing:\n    * Top: light blue cropped knit cardigan, top two buttons fastened; a blue French-style bra faintly visible\n    * Bottom: denim ultra-short shorts, with a blue satin ribbon bow on each side of the hips\n    * Socks: blue and white horizontal striped over-the-knee socks\n    * Accessory: a blue cute mascot phone case\n\n### Environment\n* Description: bedroom computer corner seen through a wall-mounted mirror\n* Furnishings:\n    * White desk\n    * Single monitor showing a soft blue wallpaper (no readable text)\n    * Mechanical keyboard with white keycaps on a blue desk mat\n    * Mouse on a small blue mouse pad\n    * PC tower on the right side with blue case lighting\n    * Three anime figures on or near the PC tower\n    * A poster of a pagoda on the wall\n    * Cat-shaped desk lamp with blue accents\n    * A transparent glass of water\n    * A tall green leafy plant by the window (on the left side of the frame)\n* Color replacement: replace all originally pink elements (clothes and room decor) with blue tones (baby blue to sky blue/periwinkle blue).\n\n### Lighting\n* Light source: daylight coming from a large window on the left side of the camera, through sheer curtains\n* Light quality: soft, diffused light\n* White balance (K): 5200\n\n### Camera\n* Mode: smartphone rear camera shooting via the mirror (no portrait/bokeh mode)\n* Equivalent focal length (mm): 26\n* Distances (m):\n    * Subject to mirror: 0.6\n    * Camera to mirror: 0.5\n* Exposure:\n    * Aperture (f): 1.8\n    * ISO: 100\n    * Shutter speed (s): 0.01\n    * Exposure compensation (EV): -0.3\n* Focus: focus on the torso and shorts in the mirror image\n* Depth of field: natural smartphone deep depth of field; background clearly visible with no artificial blur\n* Composition:\n    * Aspect ratio: 1:1\n    * Crop: from the top of the head to mid-thigh; include the desk, monitor, PC tower, and plant in the frame\n    * Angle: slightly high angle from the mirror’s point of view\n    * Composition note: keep the subject centered; to avoid wide-angle edge distortion, have her stand a bit further away and crop to a square later.\n\n### Negative prompts\n* Any appearance of pink/magenta anywhere\n* Beauty filters/over-smoothed skin; poreless skin look\n* Exaggerated or distorted anatomy\n* NSFW, see-through fabrics, wardrobe malfunctions\n* Logos, brand names, or readable user interface text\n* Fake portrait-mode blur, CGI/illustration feel",
+    "title": "Detailed mirror-selfie otaku room scene",
+    "description": "A very detailed Nano Banana prompt describing a female mirror selfie in a blue-toned otaku computer corner, with full specifications for character, environment, lighting, camera, and negative prompts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763889946850_689z0h_G23i3sJW0AASGUw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15146,
+    "content": "{\"image_parameters\":{\"subject\":\"{argument name=\\\"subject\\\" default=\\\"Young elegant woman driving at night\\\"}\",\"focal_point\":\"Detailed facial features, calm expression\",\"apparel\":\"{argument name=\\\"clothing\\\" default=\\\"Light blue striped collared shirt\\\"}\",\"vehicle_interior\":\"Modern car cabin, leather seats, steering wheel in foreground\",\"environment\":{\"setting\":\"{argument name=\\\"location\\\" default=\\\"City street at night\\\"}\",\"background\":\"Blurred urban lights, bokeh street lamps\",\"lighting\":\"Dashboard glow, cinematic shadows, high contrast\"},\"camera_settings\":{\"shot_type\":\"Frontal windshield view\",\"lens\":\"35mm prime\",\"aperture\":\"f/1.8\",\"quality\":\"8k photorealistic, cinematic film grain\"}}}",
+    "title": "Cinematic night drive photography",
+    "description": "A detailed prompt for creating a photorealistic scene of an elegant woman driving a modern car at night through a bokeh-filled city street.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15142,
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"task_type\": \"capri_blue_luxury_summer\",\n      \"style\": \"clean_mediterranean_editorial\",\n      \"version\": \"{argument name=\"model version\" default=\"v1.0_ITALY_BLUE\"}\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"preserve_identity\": \"strict_lock\",\n      \"notes\": \"{argument name=\"location\" default=\"Capri seaside terrace with deep blue water.\"}\"\n    },\n    \"subject\": {\n      \"outfit\": \"{argument name=\"outfit\" default=\"flowing cobalt blue silk dress, elegant Italian tailoring\"}\",\n      \"hair\": \"sleek ponytail or soft waves\",\n      \"makeup\": \"fresh glowing skin, natural lips\",\n      \"accessories\": \"gold hoop earrings and sunglasses\",\n      \"expression\": \"confident soft smile\",\n      \"body\": \"perfect anatomy\"\n    },\n    \"scene\": {\n      \"environment\": \"blue sea, white stone terrace\",\n      \"lighting\": \"bright Mediterranean sunlight\",\n      \"mood\": \"fresh, elegant, luxury vacation\"\n    },\n    \"pose_language\": {\n      \"pose\": \"walking toward camera\",\n      \"posture\": \"confident relaxed\"\n    },\n    \"camera\": {\n      \"lens\": \"50mm\",\n      \"angle\": \"eye-level\",\n      \"depth_of_field\": \"moderate\"\n    },\n    \"quality_control\": {\n      \"skin\": \"real pores\",\n      \"fabric\": \"natural movement\",\n      \"light\": \"balanced highlights\"\n    },\n    \"negative_prompt\": [\"overexposed\",\"cheap styling\",\"bad anatomy\",\"text\",\"logo\",\"watermark\"]\n  }\n}",
+    "title": "Mediterranean Luxury Editorial",
+    "description": "A structured JSON image-to-image prompt for Nano Banana 2 depicting a luxury summer scene in Capri.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014240290_59366n_HGoAC34XAAADdqD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15127,
+    "content": "Use the uploaded reference image as the exact facial identity reference. Create an ultra-realistic outdoor glamour portrait with the exact same body proportions, camera angle, lighting style, and facial expression as the provided image, but change the {argument name=\"pose\" default=\"pose so both hands are placed behind the head, gently holding the hair\"}. Match the new pose precisely: {argument name=\"positioning\" default=\"kneeling on the star-shaped pavement, upper body leaning slightly forward toward the camera, shoulders relaxed, elbows lifted outward, both hands behind the head with fingers softly holding the ponytail/hair, chest naturally forward, neck elongated, head tilted slightly upward toward the camera\"}. Keep the same top-down perspective and full upper-body framing. The subject is a {argument name=\"subject description\" default=\"beautiful young woman with a slim feminine figure, same body size and natural proportions as the reference image\"}, realistic anatomy, elegant posture, soft curves, delicate shoulders, graceful legs, and natural proportions. Long brown hair styled in a high ponytail with loose natural strands, realistic texture, soft shine, natural movement. Clear glowing skin with visible pores, subtle freckles, warm blush, naturally shaped brows, delicate lashes, expressive hazel-green eyes, soft lips, and lifelike facial symmetry. Facial expression must match exactly: eyes looking directly upward into the camera with a calm intimate gaze, eyebrows naturally relaxed, cheeks softly defined, lips gently closed with a subtle neutral pout, jaw relaxed, chin slightly raised. Expression should feel soft, confident, feminine, effortlessly alluring, and naturally candid. She is wearing a fitted blue ribbed mini dress with off-shoulder ruffle neckline and long sleeves, body-contouring fit, realistic knit texture, natural folds, elegant silhouette. Gold layered necklaces, small hoop earrings, rings on fingers, and delicate jewelry details. Keep exact clothing fit, proportions, accessories, and styling. Background is a luxury city sidewalk with terrazzo star pavement, soft golden-hour sunlight streaks across the ground, realistic urban outdoor atmosphere, clean composition, elegant lifestyle setting. Keep the environment realistic and detailed. Lighting must match exact real natural golden-hour daylight from the provided image: warm sunlight from the side/top angle, glowing highlights on skin, hair, and dress, long soft shadows across the pavement, balanced exposure, authentic sunset tones, no harsh flash, no artificial studio light. Keep the exact real outdoor candid atmosphere. Include highly detailed skin texture, realistic hair strands, cinematic depth, DSLR-quality sharpness, true-to-life colors, fashion lifestyle photography style, 8k resolution, ultra photorealistic, hyper realistic quality.",
+    "title": "Ultra-realistic Outdoor Glamour Portrait",
+    "description": "A highly detailed prompt for an outdoor glamour portrait involving a specific kneeling pose and high ponytail, emphasizing lighting and facial accuracy from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014234487_qqsnu2_HGnUMFeaUAA1PsB.jpg",
+      "https://cms-assets.youmind.com/media/1777014234538_99rz43_HGnUMisbIAAGEs1.jpg",
+      "https://cms-assets.youmind.com/media/1777014234501_xviyjf_HGnUNE5aoAAWN6q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15119,
+    "content": "A young woman with fair skin, freckles across her face and shoulders, and striking blue eyes is kneeling on a thick, fluffy white rug in a {argument name=\"setting\" default=\"messy bedroom\"}. She has long, vibrant blonde hair that she is actively gathering with both hands to tie into a high ponytail; her right hand holds the base of the ponytail near the crown of her head while her left hand pulls the length of her hair through. She is wearing a {argument name=\"top\" default=\"fitted white ribbed tank top\"} and {argument name=\"bottoms\" default=\"pink gym shorts bottoms\"}. Her expression is direct and slightly serious as she looks straight at the camera from a high angle. The bedroom background features an unmade bed with rumpled light-colored sheets and pillows, scattered clothes on the floor and bed, a white nightstand with a modern lamp, a stack of books, a big poster of one piece, a little neon written 'XSydneyFan' on wall, and a window with sheer curtains letting in natural daylight. The overall scene has a casual, lived-in atmosphere with soft natural lighting. 2:3ar don't change face",
+    "title": "Casual Bedroom Portrait",
+    "description": "A detailed prompt for a casual, lived-in bedroom scene featuring a woman tying her hair, with specific background elements like posters and neon signs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014230320_rhxyhz_HGm6Hr6akAANwm7.jpg",
+      "https://cms-assets.youmind.com/media/1777014230422_bgcorl_HGm6HrlbIAAtFJ_.jpg",
+      "https://cms-assets.youmind.com/media/1777014230409_c2npy6_HGm6Hr7a0AAPLjf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15139,
+    "content": "A cinematic mirror selfie inside a dark metallic elevator an {argument name=\"subject\" default=\"American white young man\"} with sharp jawline and facial features clean shaved and {argument name=\"outfit\" default=\"leather jacket\"} holds a spinning {argument name=\"energy color\" default=\"blue\"} energy spiral in his left palm while capturing himself on phone. His anime counterpart stands directly behind him: white spiky hair, black mask, purple jacket, radiating matching blue cursed energy. The reflection in the steel doors shows both worlds merging. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
+    "title": "Anime World Elevator Mirror Selfie",
+    "description": "A cinematic prompt for Nano Banana Pro featuring a mirror selfie in an elevator where a man's anime counterpart appears behind him with magical energy effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014239240_e7xbwg_HGmAwljWQAA8Vn9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15129,
+    "content": "Use the uploaded reference image as the exact facial identity reference. Create an ultra-realistic modern bathroom mirror portrait with the exact same pose, body proportions, camera angle, and facial expression as the provided image. Match the pose precisely: leaning forward with both arms extended and resting on the sink counter, upper body angled toward the mirror, hips slightly pushed back, shoulders relaxed, head tilted slightly downward, eyes looking upward with an intense soft gaze, lips closed with a neutral subtle expression, calm confident energy. Keep the exact framing from upper thighs to head and the same perspective as a candid mirror shot. The subject is a {argument name=\"subject type\" default=\"beautiful young woman with a slim curvy figure\"}, same body size and proportions as the reference, toned waist, natural curves, realistic anatomy, and elegant posture. Long straight {argument name=\"hair color\" default=\"dark brown\"} hair parted in the center, falling naturally over the shoulders and chest, with soft shine, realistic strands, and natural volume. Smooth glowing skin with visible pores, soft natural blush, defined eyebrows, subtle eye makeup, lifelike facial details, and realistic complexion. She is wearing a {argument name=\"clothing\" default=\"fitted black low-cut sleeveless crop top with smooth stretch fabric and realistic folds, paired with high-waisted black-and-white horizontal striped shorts\"}, body-hugging fit, detailed fabric texture. Small delicate tattoo visible on the forearm. Maintain exact wardrobe styling and proportions. Background is a luxury minimalist bathroom with dark charcoal stone tiled walls, matte black fixtures, modern white sink counter, mirror reflection composition, clean contemporary interior design, moody elegant atmosphere. Keep the environment realistic and uncluttered. Lighting should be soft warm indoor ambient light with subtle highlights on the skin and hair, realistic shadows, balanced contrast, and rich neutral tones. Include highly detailed skin texture, realistic hair strands, cinematic depth, DSLR-quality sharpness, mirror photography style, true-to-life colors, 8k resolution, ultra photorealistic, hyper realistic quality.",
+    "title": "Luxury Bathroom Mirror Portrait",
+    "description": "A detailed prompt for a modern bathroom mirror portrait, emphasizing realistic lighting, textures, and precise posing matching a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014234617_ki53pd_HGl_dcXawAAlYHf.jpg",
+      "https://cms-assets.youmind.com/media/1777014234683_ab0q78_HGl_eExa0AAVKQO.jpg",
+      "https://cms-assets.youmind.com/media/1777014234651_zzmhc5_HGl_elxbMAA7Bem.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15120,
+    "content": "A woman with wet, slicked-back hair, striking an intense, high-fashion editorial pose. She is wearing a {argument name=\"outfit\" default=\"striking cobalt-Red cut-out monokini\"} with complex criss-crossing wrap straps across the torso and high-cut hips. Her arms are raised and resting behind her head, leaning against a wet glass panel.\nInside a modern, enclosed shower. The foreground features a glass door heavily coated with water droplets, condensation, and streaks of running water, creating a realistic, texturedoverlay between the lens and the subject.\nMoody, cinematic chiaroscuro lighting with a strong color contrast. A cool, {argument name=\"ambient light color\" default=\"neon-blue\"} ambient light illuminates the background and catches the right side of her body and the water droplets. A soft, warm, directional key light illuminates her face and the front of her torso, mimicking a professional studio setup for a Sports Illustrated editorial shoot.\nHyper-realistic, 8K resolution, shot on an {argument name=\"lens\" default=\"85mm\"} lens at f/1.4 for an intimate, cinematic bokeh effect.\n2:3ar",
+    "title": "Cinematic Editorial Shower Portrait",
+    "description": "A high-fashion editorial prompt set in a modern enclosed shower, utilizing moody chiaroscuro lighting and water texture for a cinematic effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014230439_vcbket_HGl01kXbwAAbbf5.jpg",
+      "https://cms-assets.youmind.com/media/1777014230962_s8yze0_HGl01kRa8AAHaFD.jpg",
+      "https://cms-assets.youmind.com/media/1777014230955_lwxj8k_HGl01pCb0AAItPD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15137,
+    "content": "Photorealistic indoor portrait of a {argument name=\"subject\" default=\"young adult woman\"} with long straight light-brown hair and soft bangs, fair skin with visible freckles, glossy lips, and subtle makeup, posing on a bed in a {argument name=\"setting\" default=\"manga-themed bedroom\"}. She is wearing a {argument name=\"outfit style\" default=\"monochrome black outfit\"} with a cropped top, layered ruffled skirt, oversized detached knit sleeves, and fishnet stockings. The wall behind her is covered in black-and-white manga panels, creating a high-contrast anime-inspired backdrop. Soft natural window light, muted tones, cozy bedroom atmosphere, detailed skin texture, editorial fashion photography, shallow depth of field, centered composition, high detail.",
+    "title": "Photorealistic manga-themed bedroom portrait",
+    "description": "A detailed prompt for creating a high-contrast photorealistic portrait of a woman in a monochrome manga-themed bedroom with soft natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014238422_1ijbms_HGlg-CzacAA7_no.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15122,
+    "content": "{\n  \"subject\": {\n    \"description\": \"A young man with wavy, tousled hair, wearing {argument name=\"accessories\" default=\"dark sunglasses\"}, a {argument name=\"shirt\" default=\"white t-shirt\"}, a {argument name=\"outerwear\" default=\"dark zip-up jacket\"}, and light-wash jeans.\",\n    \"poses\": [\n      \"Sitting with one hand touching his chin in a thoughtful, pensive gesture.\",\n      \"Sitting with hands clasped together, looking slightly to the side.\"\n    ]\n  },\n  \"setting\": {\n    \"location\": \"Outdoor concrete environment\",\n    \"background\": \"A textured, industrial concrete wall with visible streaks and weathering.\",\n    \"lighting\": \"High-contrast sunlight creating a sharp diagonal shadow across the subject and the background.\"\n  },\n  \"aesthetic\": {\n    \"color_profile\": \"Black and white (monochrome)\",\n    \"mood\": \"Moody, urban, and cinematic\",\n    \"photography_style\": \"Portraiture with harsh directional lighting and heavy shadows\"\n  },\n  \"composition\": {\n    \"framing\": \"Medium shot, seated position\",\n    \"focal_point\": \"Subject's profile and expressions against the stark concrete backdrop\"\n  }\n}",
+    "title": "Industrial Concrete Portrait",
+    "description": "A structured JSON-style prompt for an urban, moody black and white portrait of a man in an industrial environment with high-contrast lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014231856_ujigr1_HGlYpdmWkAA2Uzo.jpg",
+      "https://cms-assets.youmind.com/media/1777014231895_otuq1g_HGlYpmdWcAAVf0y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15117,
+    "content": "{ \n\"meta\": { \n\"aspect_ratio\": \"4:5\", \n\"quality\": \"ultra_photorealistic\",\n \"resolution\": \"4k\",\n \"camera\": \"iPhone 15 Pro front camera\", \n\"lens\": \"24mm wide\",\n \"style\": \"raw iPhone indoor selfie realism, natural mobile HDR, sharp detailed foreground and background, crisp skin, knit, faux-fur, and leather texture, no blur, no softness, no muddy rendering\"\n },\n\"character_lock\": {\n \"hair\": [ \n\"platinum blonde hair\", \n\"soft shaggy layered bob\",\n \"airy volume\", \n\"flipped feathered ends\", \n\"wispy face-framing fringe\"\n ],\n \"skin\": [ \n\"fair skin tone\", \n\"real skin texture\",\n \"soft freckles across cheeks and nose\", \n\"rosy blush\",\n \"not plastic\", \n\"not over-smoothed\"\n ],\n \"features\": [\n \"large doll-like eyes\",\n \"soft lower-lash eyeliner\", \n\"white inner-corner makeup accents\", \n\"small pouty lips\",\n \"cute but slightly eerie expression\"\n ],\n \"body\": [\n \"soft feminine build\",\n \"realistic adult proportions\", \n\"normal adult head size\",\n \"realistic head-to-body ratio\", \n\"no oversized head\", \n\"no anatomy distortion\"\n ]\n },\n\"scene\": {\n \"location\": \"modern apartment interior\", \"environment\": [\n \"dark kitchen island\", \n\"white bar stools\", \n\"clean open-plan kitchen in the background\",\n \"neutral rug and living room area\", \n\"soft daylight entering from the side\"\n ], \n\"atmosphere\": \"cute fantasy-costume selfie, cozy apartment setting, soft but dark whimsical energy\" \n},\n\"lighting\": { \n\"type\": \"strong natural window light\",\n \"key_light\": \"warm sunlight falling across face, hair, sweater, and corset\", \n\"fill_light\": \"subtle room bounce from pale floor and walls\", \n\"effect\": \"clean realistic exposure, crisp shadows, glowing skin, sharp knit and leather texture, readable room detail\", \n\"avoid\": [\n \"studio lighting\",\n \"flash\",\n \"blurry background\", \n\"soft focus\", \n\"muddy rendering\" \n] \n},\n\"camera_perspective\": { \n\"pov\": \"we ARE her phone\", \n\"angle\": \"slightly high close selfie angle\",\n \"distance\": \"close-medium framing\",\n \"framing\": \"head, chest, and upper torso dominate the frame with apartment background still readable\", \"phone_visibility\": \"not visible\" \n},\n\"subject\": { \n\"gender\": \"female\", \n\"age\": \"21+ adult\",\n \"expression\": { \n\"eyes\": \"soft direct gaze toward camera\",\n \"mouth\": \"small pout\", \n\"emotion\": \"cute, quiet, slightly dangerous\"\n }, \n\"pose\": { \n\"position\": \"standing indoors taking a close selfie\", \"head\": \"slight tilt downward toward camera\", \"shoulders\": \"relaxed\", \n\"body\": \"upright with chest and torso facing camera\"\n },\n \"outfit\": { \n\"headwear\": { \n\"type\": \"{argument name=\"headpiece\" default=\"large black fantasy antler headpiece\"}\", \"details\": \"dramatic textured antlers rising above the head\"\n },\n \"top\": {\n \"type\": \"{argument name=\"clothing\" default=\"cream ribbed knit long-sleeve sweater\"}\", \"fit\": \"soft fitted knit with visible vertical rib texture\"\n }, \n\"neck\": { \n\"type\": \"white faux-fur collar\", \n\"details\": \"thick soft fluffy texture framing the neck\"\n }, \n\"corset\": { \n\"type\": \"brown leather corset belt or harness\", \"details\": \"structured leather with buckle fastenings\" } } } }",
+    "title": "Ultra-Photorealistic Fantasy Selfie",
+    "description": "A complex, structured prompt for a realistic indoor selfie with fantasy elements, including high-fidelity character details and specific lighting conditions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014229319_5wn8wx_HGlSrV0XkAAMIjz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15124,
+    "content": "Streetwear editorial photography in a {argument name=\"environment\" default=\"night industrial environment\"}. Young guy sitting on a metal container, with a relaxed and confident posture, hanging legs and confident expression. Faithfully maintain the face and identity of the subject according to the reference image, without alterations. Modern streetwear outfit: {argument name=\"outfit\" default=\"oversize jacket, hoodie, loose jeans and sneakers\"}, with subtle urban accessories. Hard lighting type flash or spot light, generating high contrast marked mbras. Dark background with minimal information to emphasise drama. Container with worn and industrial metal texture. Vertical composition, low angle, moderate wide-angle lens for dynamic effect. High sharpness, focus on the subject, detailed textures and colour grading contrasted with cold tones. No distractions or text.",
+    "title": "Industrial Streetwear Editorial",
+    "description": "An industrial streetwear photography prompt featuring a subject in an urban environment with high-contrast flash lighting and a metal container backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014233469_6orif2_HGlQak2aIAASJjA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15116,
+    "content": "Use the uploaded photo as the ONLY and EXACT facial reference. Preserve facial identity with absolute priority: exact facial features, natural hair color and all original appearance details. No beautification, no stylization, no changes to the face. If any conflict occurs - preserve the face exactly. A young woman captured as a spontaneous iPhone shot in the {argument name=\"location\" default=\"backseat of a moving car\"} during {argument name=\"time of day\" default=\"vibrant nightlife\"} leaning forward dynamically with energetic vibe and sharp turn of her head.",
+    "title": "Nightlife Car Ride Portrait",
+    "description": "A prompt designed for generating a spontaneous iPhone-style portrait of a woman in a moving car at night, with a strong focus on preserving facial identity from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014229105_pky9i2_HGlHBzzbEAEXmaf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15125,
+    "content": "A hyper-photorealistic shot of the same subject in the attached image. Ultra 8k HD, sharp facial details, realistic skin texture, visible pores, porcelain and dewy skin, {argument name=\"makeup style\" default=\"douyin / Korean glass-skin makeup\"}, glossy lips, soft aegyosal, baby pink blush across cheeks and nose, grey contact lenses. Shot on a mobile camera / iPhone, ISO 100, natural mobile lens look, no background blur, no bokeh, blacks and shadows slightly lifted or flattened, realistic exposure, no cinematic color grading.\n\nScene: {argument name=\"setting\" default=\"bright outdoor cafe patio in direct daylight\"}, woven chairs, textured shadows, polished table surface, casual editorial street-fashion vibe. Use chair angles, table edges, and background lines for a strong fashion-forward frame.\n\nPose: realistic spontaneous human pose, not stiff, not center-facing, leaning forward slightly with one arm resting on a chair and the other relaxed near the waist, cropped fashion angle with a natural body curve and editorial energy.\n\nHair: dark brown long straight hair with sleek texture, light face-framing pieces, ends softly curled inward with a refined modern finish.\n\nOutfit: {argument name=\"clothing\" default=\"colorful asymmetrical fruit-print cutout top, distressed light denim mini skirt\"}, silver chain shoulder bag, trendy youthful summer styling.\n\n-ar 2:3",
+    "title": "Korean Glass-Skin Cafe Portrait",
+    "description": "A prompt for a hyper-photorealistic outdoor cafe portrait with a focus on 'glass-skin' makeup aesthetics and specific summer fashion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014233451_q0x5jm_HGkujVrbAAAwoWV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15140,
+    "content": "A young American white man with extremely sharp, chiseled jawline, high cheekbones, piercing eyes, clean skin — no tattoos anywhere. Dark neatly styled hair. Wearing a {argument name=\"top\" default=\"brown oversized cardigan over a white t-shirt\"}, beige jogger pants and white Nike Air Force 1 sneakers.\nPose & Camera angle: Full body shot, character sitting centered and CLOSE to the camera — filling majority of the frame. Camera at slight low angle looking up, character dominates the foreground. Both legs relaxed, one knee slightly raised, holding a smartphone in one hand resting on his knee. Confident, calm expression looking slightly off-camera.\nLogo: He is sitting on a large {argument name=\"logo description\" default=\"oversized glossy 3D X (Twitter) logo\"} — big black rounded square with glowing white X symbol — logo is wide, taking up the lower 30% of frame. Character sits directly on top of it.\nBackground screen: The X/Twitter dark mode UI screen behind the character is NOW very close — almost like a giant wall monitor right behind him, only 1-2 feet away. The screen is MASSIVE, filling the entire background from edge to edge and top to bottom. It is so close and large that the UI details are clearly visible and sharp — you can clearly read the profile handle [{argument name=\"handle\" default=\"OzairAI\"}] , see the profile picture (matching the character), follower counts, tweet feed posts, sidebar navigation. The screen feels like it's RIGHT THERE behind him, not floating far away. High resolution UI details, crisp and legible text inside the screen.\nLighting: Cinematic dramatic lighting — strong key light from upper left on face and chest, soft cool fill from right, subtle blue/white glow from the screen behind reflecting onto the character's back and shoulders. Deep dark charcoal background edges with faint particles.\nUltra photorealistic, 8K, cinematic color grading, no text overlays except inside the X UI screen. Vertical 9:13 format.",
+    "title": "X/Twitter UI Interaction Scene",
+    "description": "A complex Nano Banana Pro prompt for a character sitting on a 3D X logo with a massive UI screen background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014239552_qmksx9_HGkplvUa4AAmKty.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15141,
+    "content": "Photorealistic close-up portrait of a {argument name=\"subject\" default=\"young woman with fair skin and natural freckles, soft green eyes\"}, and neutral expression, wearing a {argument name=\"cap style\" default=\"dark green baseball cap\"} with minimal white embroidered text “{argument name=\"cap text\" default=\"after match.\"}\", straight brown shoulder-length hair tucked behind ears, white crew-neck t-shirt, centered composition, looking directly at camera, warm beige studio background, soft diffused lighting, subtle film grain, muted tones, shallow depth of field, 85mm lens, cinematic color grading, ultra-detailed skin texture, editorial fashion photography style\n\nPhotorealistic lifestyle portrait of a young woman with freckles and green eyes, wearing a dark green cap and white t-shirt with “Oriental” text and floral print, relaxed pose with chin resting on hand, looking off into distance, natural outdoor lighting, soft sky background, warm pastel tones, gentle shadows, candid editorial vibe, shallow depth of field, 50mm lens, film grain, cinematic color grading, high detail, fashion campaign aesthetic",
+    "title": "Fashion Editorial Green Cap Portraits",
+    "description": "Two prompt variations for Nano Banana Pro creating photorealistic fashion portraits of a woman wearing a green cap.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014239802_gdrwrv_HGkPKepbIAAzgVY.jpg",
+      "https://cms-assets.youmind.com/media/1777014239763_myr2ds_HGkPKeqa0AExyKh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15130,
+    "content": "{ \"prompt\": { \"style_and_tech\": \"{argument name=\"aesthetic style\" default=\"mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur\"}\", \"subject\": \"{argument name=\"subject\" default=\"young Korean female idol, soft innocent look\"}\", \"pose\": \"mid-action, slightly turning head toward camera as if just noticed being photographed, shoulders slightly raised\", \"expression\": \"eyes widened slightly, lips parted in surprise, shy and caught-off-guard expression\", \"clothing\": \"{argument name=\"clothing\" default=\"loose soft homewear (thin cardigan + inner top), slightly slipping off one shoulder but not revealing\"}\", \"vibe\": \"unprepared, intimate, accidental moment, evokes curiosity and protectiveness\", \"aspect ratio\":\"9:16\" } }",
+    "title": "Korean Idol Candid Snapshot",
+    "description": "A prompt for a candid, caught-off-guard photo of a Korean idol, using old camera aesthetics and harsh flash for an intimate feeling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014235926_27a2qg_HGkB1brawAAHO2e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15144,
+    "content": "{\\n  \\\"scene\\\": {\\n    \\\"setting\\\": \\\"{argument name=\\\"scenery\\\" default=\\\"natural rocky coastline beside a crystal clear tropical lagoon\\\"}\\\",\\n    \\\"background\\\": \\\"crystal clear turquoise lagoon with visible underwater rocks, gentle ripples, light rays penetrating water, ultra clean transparency, bright blue sky reflections, cinematic ocean depth gradient\\\",\\n    \\\"lighting\\\": \\\"bright natural sunlight with strong directional light, realistic highlights on skin and rocks, sharp yet natural shadows, cinematic reflections on water surface\\\"\\n  },\\n  \\\"subject\\\": {\\n    \\\"type\\\": \\\"{argument name=\\\"gender\\\" default=\\\"female\\\"}\\\",\\n    \\\"pose\\\": \\\"seated on large rock with legs extended forward and slightly bent, arms resting on legs, torso upright, head tilted slightly upward toward sunlight\\\",\\n    \\\"expression\\\": \\\"relaxed serene expression with eyes softly closed or slightly squinting toward sunlight\\\",\\n    \\\"face\\\": \\\"Use uploaded reference image, keep identity exact, natural facial proportions, visible skin texture and realistic lighting\\\",\\n    \\\"hair\\\": \\\"Use uploaded reference image, keep identity exact, natural loose hair with slight movement from breeze\\\",\\n    \\\"eyes\\\": \\\"Use uploaded reference image, keep identity exact, softly relaxed gaze\\\",\\n    \\\"skin\\\": \\\"sunlit natural skin tone with realistic highlights, subtle imperfections, and accurate shadow transitions\\\",\\n    \\\"body\\\": \\\"natural proportions maintained with realistic posture\\\"\\n  },\\n  \\\"clothing\\\": {\\n    \\\"outfit\\\": \\\"{argument name=\\\"clothing\\\" default=\\\"minimal fitted swimsuit in deep black tone with smooth fabric and natural stretch highlights\\\"}\\\",\\n    \\\"footwear\\\": \\\"bare feet with natural positioning on textured rock surface\\\",\\n    \\\"accessories\\\": \\\"none\\\"\\n  },\\n  \\\"environment_details\\\": {\\n    \\\"props\\\": \\\"large textured coastal rocks partially wet from water, small water splashes near edges\\\",\\n    \\\"textures\\\": \\\"detailed rock surface with rough texture, crystal clear water transparency, underwater stones visible, light refraction patterns, subtle water movement\\\"\\n  },\\n  \\\"camera\\\": {\\n    \\\"angle\\\": \\\"slightly elevated side angle capturing subject and lagoon\\\",\\n    \\\"framing\\\": \\\"full body shot with strong environmental context\\\",\\n    \\\"focus\\\": \\\"sharp focus on subject with detailed background clarity\\\",\\n    \\\"lens\\\": \\\"natural focal length with slight cinematic depth\\\"\\n  },\\n  \\\"style\\\": {\\n    \\\"realism\\\": \\\"ultra realistic tropical photography\\\",\\n    \\\"color_tone\\\": \\\"vibrant turquoise and natural warm skin tones with high clarity\\\",\\n    \\\"effects\\\": \\\"cinematic reflections, natural HDR balance, no artificial filters\\\",\\n    \\\"details\\\": \\\"extreme detail in water clarity, realistic light physics, subtle imperfections, immersive tropical realism\\\"\\n  }\\n}",
+    "title": "Tropical Coastal Photography Scene",
+    "description": "A structured JSON prompt for generating an ultra-realistic tropical coastline scene with a focus on realistic water reflections and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014241177_fia900_HGjN-VobcAAB8SP.jpg",
+      "https://cms-assets.youmind.com/media/1777014241144_mfxkz1_HGjN-fnbEAAQTUE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14699,
+    "content": "A hyper-photorealistic shot of the same subject in the attached image. Ultra 8k HD, sharp facial details, realistic pores, porcelain and dewy skin, douyin / Korean glass-skin makeup, glossy lips, soft aegyosal, baby pink blush on cheeks and nose, grey contact lenses, {argument name=\"subject\" default=\"dark brown hair with soft long waves and inward-curled ends\"}.\n\nShot on mobile camera / iPhone, ISO 100, no background blur, no bokeh, shadows slightly flattened, warm sunset light, no color grading.\n\nScene: {argument name=\"location\" default=\"Tropical villa\"}, wearing {argument name=\"clothing\" default=\"deep purple fig plunging one-piece swimsuit\"}, adjusting front zipper in front of large mirror, realistic human pose, spontaneous and not stiff.\nCreate strong leading lines and luxurious clean framing.\n\n-ar 2:3",
+    "title": "Photorealistic swimwear portrait prompt",
+    "description": "A highly detailed prompt for creating a photorealistic tropical portrait featuring specific facial features, makeup style, and swimwear using Nano Banana.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927634493_1jevza_HGix5jsaIAAWZOP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14708,
+    "content": "Photo album of {argument name=\"character one\" default=\"Nancy （Natalia Dyer）\"} & {argument name=\"character two\" default=\"MAX（Sadie Elizabeth Sink）\"}",
+    "title": "Nancy and Max Realistic Portrait",
+    "description": "A descriptive prompt used to generate a realistic photo album style image of Nancy and Max from Stranger Things using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927638159_yshgbq_HGhYMI_bkAAyhec.jpg",
+      "https://cms-assets.youmind.com/media/1776927638211_c1e340_HGhYMcQbkAAbdLz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14700,
+    "content": "A high-resolution, cinematic portrait of a {argument name=\"character\" default=\"confident young woman with a stylish dark brown bob haircut\"}, sitting cross-legged on an {argument name=\"location\" default=\"outdoor asphalt basketball court\"}. She is wearing a {argument name=\"clothing\" default=\"black Nike zip-up track jacket with subtle floral embroidery, matching black joggers, and layered gold chain necklaces\"}.\n\n​Focus: The foreground features a pair of light blue Nike Dunk Low sneakers with bronze-colored swooshes and cream laces, slightly out of focus in the very front are orange wildflowers.\n\n​Setting & Composition: * Background: An urban outdoor basketball court with a chain-link fence and a basketball hoop against a soft blue sky with wispy clouds.\n\n​Lighting: Warm, golden hour natural light, creating soft shadows and a glow on the subject's face.\n\n​Perspective: Low-angle shot, eye-level with the subject, creating an intimate yet empowering feel.\n\n​Style: Lifestyle photography, sharp focus on the subject, shallow depth of field (bokeh) blurring the background and the flowers in the immediate foreground.",
+    "title": "Urban lifestyle portrait prompt",
+    "description": "A cinematic lifestyle prompt for a woman on a basketball court, focusing on specific Nike sneakers and golden hour lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927635139_llnwfl_HGhVMqmWgAA2O2y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14709,
+    "content": "{argument name=\"visual style\" default=\"ultra-realistic cinematic action portrait\"}, low-angle slightly wide shot, 9:16 vertical aspect ratio, {argument name=\"subject\" default=\"a young man standing waist-deep in a calm water body during a dramatic sunset\"}, captured mid-motion as he lifts one arm upward creating a powerful splash, water forming a semi-circular arc around him like a halo of droplets frozen in air, pose structure, strong upward arm movement with torso slightly twisted, balanced stance in water, confident body language, head slightly tilted with expressive relaxed face conveying freedom and spontaneity, cloth design, white long-sleeve shirt soaked and clinging naturally to body, realistic wet fabric texture with visible folds and stretch, subtle chain necklace reflecting light adding detail, environment, wide open water surface smooth and reflective, low horizon line allowing sky dominance, minimal distractions, calm ripples spreading outward from subject motion, lighting, {argument name=\"lighting\" default=\"strong backlit sunset lighting creating silhouette effect with glowing rim light around subject\"}, warm orange tones near horizon blending into purples and deep blues in sky, light catching individual water droplets producing sparkling highlights, lens and camera, 35mm lens, f/2.8 aperture for balanced sharpness of subject and splash, ISO 100, high shutter speed freeze-frame effect capturing droplets in crisp detail, texture and realism, ultra-detailed water droplets suspended mid-air with varied size and spacing, realistic ripple patterns on water surface, natural skin texture with subtle highlights, accurate light refraction through droplets, fabric wetness realism, camera style, DSLR cinematic photography, music-video style dramatic realism with warm-to-cool gradient color grading, shallow depth of field, soft background falloff, realistic shadows, volumetric sunset glow, high dynamic range natural not overprocessed, 8K ultra HD, extreme detail  NEGATIVE PROMPT: blurry, low resolution, cartoon, CGI, unrealistic water splash, plastic droplets, distorted anatomy, oversharpen, noise, watermark, text, logo",
+    "title": "Cinematic Sunset Water Splash Portrait",
+    "description": "An extremely detailed action prompt for a high-quality vertical portrait of a man creating a splash in water at sunset, including technical camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927638356_w6i3gy_HGf2L79WcAAGt31.jpg"
+    ],
+    "needReferenceImages": false
+  }
+]

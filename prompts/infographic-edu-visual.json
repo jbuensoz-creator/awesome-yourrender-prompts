@@ -1,0 +1,78 @@
+[
+  {
+    "id": 6847,
+    "content": "Input Variable: [insert product name]\nLanguage: [insert language]\n\nSystem Instruction:\nCreate an image of premium liquid glass Bento grid product infographic with 8 modules (card 2 to 8 show text titles only).\n1) Product Analysis:\n→ Identify product's dominant natural color → \"hero color\"\n→ Identify category: FOOD / MEDICINE / TECH\n2) Color Palette (derived from hero):\n→ Product + accents: full saturation hero color\n→ Icons, borders: muted hero (30-40% saturation, never black)\n3) Visual Style:\n→ Hero product: real photography (authentic, premium), 3D Glass version [choose one]\n→ Cards: Apple liquid glass (85-90% transparent) with Whisper-thin borders and Subtle drop shadow for floating depth and reflecting the background color\n→ Background stays behind cards and high blur where cards are [choose one]:\n  - Ethereal: product essence, light caustics, abstract glow\n  - Macro: product texture close-up, heavily blurred\n  - Pattern: product repeated softly at 10-15% opacity\n  - Context: relevant environment, blurred + desaturated\n→ Add subtle motion effect\n→ Asymmetric Bento grid, 16:9 landscape\n→ Hero card: 28-30% | Info modules: 70-72%\n4) Module Content (8 Cards):\nM1 — Hero: Product displayed as real photo / 3D glass / stylized interpretation (choose one)in beautiful form + product name label\nM2 — Core Benefits: 4 unique benefits + hero-color icons\nM3 — How to Use: 4 usage methods + icons\nM4 — Key Metrics: 5 EXACT data points\nFormat: [icon] [Label] [Bold Value] [Unit]\nFOOD: Calories: [X] kcal/100g, Carbs: [X]g (fiber [X]g, sugar [X]g), Protein: [X]g, [Key Vitamin]: [X]mg ([X]% DV), [Key Mineral]: [X]mg ([X]% DV)\nMEDICINE:Active: [name], Strength: [X] mg, Onset: [X] min, Duration: [X] hrs, Half-life: [X] hrs \nTECH:Chip: [model], Battery: [X] hrs, Weight: [X]g,[Key spec]: [value], Connectivity: [protocols]\nM5 — Who It's For: 4 recommended groups with green checkmark icons | 3 caution groups with amber warning icons\nM6 — Important Notes: 4 precautions + warning icons\nM7 — Quick Reference:\n→ FOOD: Glycemic Index + dietary tags with icons\n→ MEDICINE: Side effects + severity with icons\n→ TECH: Compatibility + certifications with icons\nM8 — Did You Know: 3 facts (origin, science, global stat) + icons\nOutput: 1 image, 16:9 landscape, ultra-premium liquid glass infographic.",
+    "title": "Premium liquid glass Bento grid product infographic with 8 modules",
+    "description": "Create an Infographics with bento grid 8 module layout, user can specify any product name in Food, Medicine, tech etc category, choose language, Background style, Hero grid style",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768962051381_l9uih4_537980579-6f29d32a-c786-40c4-bd5a-79c640737496.png",
+      "https://cms-assets.youmind.com/media/1768962076321_nu4c5q_537981099-d18d0e38-f7ac-4781-a5da-6d68e2380885.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 498,
+    "content": "Completely recreate the uploaded person.\nMake it a header image for a note article where that person introduces “Nano Banana Pro”.\nAspect ratio: horizontal 16:9.\nStyle and colors: simple, hand-drawn style, italic, with a blue and green gradient.\nTitle text: “In-depth explanation of Google’s new AI ‘Nano Banana Pro’”.",
+    "title": "Hand-drawn style header image prompt from photo",
+    "description": "Prompt for a hand-drawn style header image of a person introducing Nano Banana Pro",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885651870_4szbai_G6VZiROagAAqsIh.jpg",
+      "https://cms-assets.youmind.com/media/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 380,
+    "content": "Generate a map of Germany in watercolor style, on which all federal states are labeled in ballpoint pen.",
+    "title": "Watercolor map of Germany with labeled states",
+    "description": "A German prompt to generate a watercolor-style map of Germany where all federal states are labeled in ballpoint pen, useful for educational or infographic-style maps.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 3438,
+    "content": "A vintage patent document for {argument name=\"invention\" default=\"INVENTION\"}, styled after late 1800s United States Patent Office filings. The page features precise technical drawings with numbered callouts (Fig. 1, Fig. 2, Fig. 3) showing front, side, and exploded views. Handwritten annotations in fountain-pen ink describe mechanisms. The paper is aged ivory with foxing stains and soft fold creases. An official embossed seal and red wax stamp appear in the corner. A hand-signed inventor's name and date appear at the bottom. The entire image feels like a recovered archival document—authoritative, historic, and slightly mysterious.",
+    "title": "Vintage Patent Document for an Invention",
+    "description": "A prompt designed to generate an image of a vintage United States patent document from the late 1800s. It specifies details like precise technical drawings, handwritten annotations, aged paper texture, foxing stains, an embossed seal, and a wax stamp, making it ideal for historical or archival aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766940094520_1mg5pd_G8_m2ZVWEAAMG7y.jpg",
+      "https://cms-assets.youmind.com/media/1766940095035_8t8iil_G8_mW4FWwAEwERE.jpg",
+      "https://cms-assets.youmind.com/media/1766940095188_kt8ksq_G8_m_7hWoAAw19u.jpg",
+      "https://cms-assets.youmind.com/media/1766940096864_fhv4oo_G8_nePrXUAAHvgn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 509,
+    "content": "Using the following content, summarize the news in a chalkboard-style, hand‑written look, and break it down with diagrams and easy‑to‑understand expressions as if a teacher had written it.\n—-\nSearch results from Grok",
+    "title": "Chalkboard-style AI news summary",
+    "description": "A Japanese prompt for turning AI news content into a hand-drawn, teacher-style chalkboard diagram with explanations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg",
+      "https://cms-assets.youmind.com/media/1763885622901_pk1vka_G6P2CkracAINIfP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14710,
+    "content": "Hyper-realistic exploded vertical infographic composition of a {argument name=\"food or product\" default=\"gourmet cheeseburger\"}. All ingredients evenly spaced and perfectly aligned vertically. {argument name=\"background color\" default=\"Warm yellow\"} seamless studio background, soft commercial food lighting, subtle realistic shadows under each floating element, ultra-sharp focus, DSLR macro food photography, premium fast-food ad aesthetic, 8K. Clean infographic text labels with thin pointer lines.",
+    "title": "Vertical Exploded Food Infographic",
+    "description": "A professional studio-style prompt for creating hyper-realistic vertical exploded infographics of food items or products, featuring clean labeling and macro photography aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014241630_j719xr_HGjTt6DbYAATsYp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13226,
+    "content": "Create a cosmic/space scene where various Indian street foods are floating in deep space as if they are planets, moons, and celestial objects in a delicious galaxy.\n\nTHE FOOD SOLAR SYSTEM:\n- CENTER (Sun): A massive round tandoori roti, glowing from within like a star, with charred spots resembling sunspots, radiating warm golden light outward\n- PLANET 1 (closest): A perfect round golgappa/pani puri — crispy shell glistening, filled with spiced water visible through the opening. Tiny orbit ring of sev and chutney droplets.\n- PLANET 2: A round vada (medu vada) as a donut-shaped planet with a ring system made of coconut chutney\n- PLANET 3: A plate of round gulab jamuns as a cluster of sweet brown planets with syrup nebula around them\n- ASTEROID BELT: Dozens of floating samosas, pakoras, and bhel pieces scattered in a ring\n- PLANET 4 (gas giant): A huge round dahi vada — white yogurt surface like a cloudy gas giant, with tempering (tadka) marks resembling Jupiter's storms\n- COMET: A kebab skewer streaking across the scene with a trail of spice smoke and sparks\n- MOON: A round idli orbiting the dahi vada planet\n- NEBULA: A colorful cloud of turmeric (yellow), chili (red), and coriander (green) powders mixing in space, forming a stunning spice nebula\n\nBACKGROUND:\n- Deep space black with thousands of tiny stars (mustard seeds and cumin seeds floating as stars)\n- Distant galaxies made of swirling masala powder\n- The Milky Way visible but made of a stream of white lassi/buttermilk\n\nLIGHTING:\n- The tandoori roti \"sun\" provides warm orange light illuminating nearby foods\n- Each food item has its own subtle glow — the hot items emit warm light, the cold items (lassi, curd) emit cool blue light\n- Dramatic space lighting: stark bright highlights, deep black shadows, no atmosphere\n\nSTYLE: Photorealistic food photography meets NASA space photography. Every food item is rendered with appetite-triggering detail — crispy textures, steam, glistening oil, fresh garnishes — but floating in actual outer space with real stars and cosmic phenomena. This surreal combination is the kind of image people share saying \"this is the most Indian thing I've ever seen.\" 8K resolution.",
+    "title": "The Food Galaxy: Cosmic Indian Street Food Solar System",
+    "description": "A creative and detailed prompt for Nano Banana 2 to generate a surreal, photorealistic image of Indian street food floating in deep space, where each food item represents a celestial body (e.g., tandoori roti as the sun, golgappa as a planet, samosas as asteroids). The prompt specifies lighting, background elements (spice nebula, lassi Milky Way), and style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775284657172_qor3qr_HE81-SpWAAAmvxM.jpg"
+    ],
+    "needReferenceImages": false
+  }
+]

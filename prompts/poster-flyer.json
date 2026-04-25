@@ -1,0 +1,103 @@
+[
+  {
+    "id": 4031,
+    "content": "[Key: Maintain precise facial features, retain original face structure, the character in the image must be completely consistent with the uploaded reference image] High-end photo studio 2x2 grid photo. Top-left panel (Navy Blue background): The character wears a navy blue uniform-style dress, decorated with gold buttons, vintage curls with a blue beret and pearl earrings. She holds up a huge puzzle piece (top-left piece, with the number \"20\" on it) with both hands, moving it towards the center of the frame. Her eyes are focused on the central puzzle area, her expression is serious, with a slight smile. The background features navy stripes, an anchor, and the text \"Set Sail for the New Year\". Top-right panel (Cherry Blossom Pink background): The same woman wears a pink lace dress, a pearl necklace, a princess hairstyle with a pink rose hairpin and crystal earrings. She holds up the top-right puzzle piece (with the number \"26\" on it) with both hands, moving it towards the center to connect with the top-left piece. Her eyes look at the puzzle seam, her expression is focused and expectant, and her body leans forward. The background features pink cherry blossoms, the text \"Beautiful Encounter\", butterflies, and petals. Bottom-left panel (Mint Green background): The same woman wears a mint green cotton and linen dress, in an artistic style, with natural long hair, a green hairband, and wooden earrings. She holds up the bottom-left puzzle piece (with the text \"New Year's Day\" on it) with both hands, moving it upwards to connect with the top-left piece. Her eyes look at the puzzle, her expression is serious, and her mouth is slightly pursed. The background features green plants, the text \"Hope Grows\", new sprouts, and leaves. Bottom-right panel (Lemon Yellow background): The same woman wears a yellow dress with a sunflower pattern, pigtails with yellow bows. She pushes in the last bottom-right puzzle piece (with the text \"Happy\" on it) to complete the puzzle. The four pieces perfectly form the complete pattern \"2026 New Year's Day Happy\" in the center of the frame. She tilts her head back, looking at the completed puzzle, her face beaming with a successful, joyful smile. The center of the frame bursts with golden light and confetti. The background features a yellow sun, the text \"Complete Success\", smiley faces, and sunflowers. The puzzle pieces converge from the four corners to the center to form a complete picture. Clear makeup, bright ring light, 85mm lens, f/1.8 aperture, four-panel composition with puzzle interaction, fashion magazine style.",
+    "title": "New Year's Day Special: Four-Panel Puzzle for 2026 Blessing",
+    "description": "A detailed multi-panel prompt for Nano Banana Pro, creating a 2x2 grid photo collage where a single female character, in four different outfits and settings, pieces together a puzzle that spells '2026 New Year's Day Happy' in the center. The prompt specifies precise facial feature retention, clothing details, background elements, and photographic parameters for a fashion magazine style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767455034932_ivuvu0_G9V-MszakAEAIBw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 811,
+    "content": "A Japanese Edo-period Ukiyo-e woodblock print. The overall feeling is a surreal collaboration between masters like Hokusai and Hiroshige, reimagining modern technology through an ancient lens.\n\n**The scene:** {argument name=\"modern scene\" default=\"a busy Shibuya scramble crossing\"}\n\n**Edo transformation logic:**\nCharacters wear Edo-era kimono but perform modern actions. All technology is transformed into surreal Edo equivalents:\n* Smartphones are glowing, illustrated paper scrolls being read intently.\n* Metro stations and trains are giant articulated wooden centipede carriages shuffling through crowds.\n* Skyscrapers are reimagined as endless, towering wooden pagodas reaching into dramatic clouds.\n* Robots and mecha appear as giant, armored woodblock golems.\n\nThe composition uses a flattened perspective with large, bold, hand-carved ink outlines. The background features heavily stylized Ukiyo-e wave patterns and dramatic, swirling clouds, with a distant Mt. Fuji visible on the horizon.\n\nThe image must look like a physical print, not a digital painting.\n* Texture: strong visible wood grain texture and rough paper fibers throughout the piece.\n* Printing imperfections: pigment bleeding is evident. Simulate hand-pressed plates with slight color misalignment for authenticity.\n* Color palette: strictly limited to traditional mineral pigments, with dominant use of Prussian blue, vermilion red, and muted yellow ochre.\n* Lighting: soft, flat, shadow-free lighting with no digital gradients.\n\nAspect ratio is 3:4 vertical poster. Include vertical Japanese calligraphy describing the scene and a traditional red artist seal stamp in a corner.",
+    "title": "Edo-period Ukiyo-e reinterpretation of a modern scene",
+    "description": "A highly-structured image prompt to depict a modern-day scene reimagined as an Edo-period Japanese Ukiyo-e woodblock print, with detailed guidance on anachronistic tech, composition, texture, and color.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15143,
+    "content": "A wide, cinematic photorealistic night image. In the scene, a {argument name=\"subject\" default=\"young Asian woman with shoulder-length straight hair\"} and a serene demeanor is walking barefoot in profile across mirror-like shallow water. She is wearing an {argument name=\"outfit\" default=\"elegant, flowing silver-grey sequined gown with spaghetti straps and a high slit\"}, which billows subtly as she walks. Her head is slightly lowered.\nIf a reference photo is provided, please closely match her facial features, hairstyle, skin tone, overall body proportions, and her unique aura; meanwhile, her clothing and accessories can be naturally adjusted to fit the scene.\nThe water surface features a perfect mirror reflection, but directly beneath her feet, her own reflection is completely replaced by a magnificent and highly detailed spirit-tiger. This spirit-tiger is composed of intricate white-silver lines and emits a soft blue glow. The spirit-tiger appears in a reverse reflection, clearly sniffing a luminous white-gold rose bud (whose light is as pure as moonlight) that exists exclusively within the reflection. A long trail of delicate, glowing rose buds and petals drifts down from the woman's hand, forming an elegant arc that floats up and around her as she walks, ultimately extending down to the glowing rose beneath the spirit-tiger's nose. Faint glowing sparkles shimmer around her bare feet.\nThe minimalist horizon features distant dark islands. The sky is a deep indigo, dotted with subtle stars, a clear Milky Way, and a massive, glowing full moon. The image features subtle, cool-toned cinematic lighting from the moon and night sky, alongside the internal glow radiating from the spirit-tiger and the rose. Elegant silver-white calligraphy text at the bottom center reads: '{argument name=\"text\" default=\"In me the tiger sniffs the rose.\"}' High dynamic range (HDR) night reflections, extreme detail, 8K resolution, surrealism style.",
+    "title": "Spirit-Tiger Water Walk",
+    "description": "A surreal and cinematic prompt for Nano Banana 2 featuring a woman walking on water with a spirit-tiger in her reflection.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014240706_9ga70k_HGmf6D7bIAAJlx8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15128,
+    "content": "A 2x2 grid of {argument name=\"subject\" default=\"superheroes\"} in mid-flight created from arranged {argument name=\"material\" default=\"raw bread dough and flour\"}\nStructure: [Panel: HEROIC LANDING; kneaded muscle definition, flour dust cape, olive oil sheen, yeast rise puffiness, sesame seed utility belt, egg wash highlight]\nStyle: {argument name=\"art style\" default=\"Marvel comics meets The Great British Bake Off\"}, warm golden hour lighting, wooden table top, unbaked potential.",
+    "title": "Bread Dough Superheroes",
+    "description": "A creative prompt for generating unbaked raw bread dough shaped into superheroes, blending comic book style with culinary aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014235033_mrkhjd_HGYwXmhbMAAFCDu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15135,
+    "content": "A cinematic, close-up action shot of a determined {argument name=\"rider gender\" default=\"female\"} motocross rider racing a dusty {argument name=\"bike color\" default=\"black\"} dirt bike through a {argument name=\"landscape\" default=\"rugged desert landscape\"}. She is leaning forward with intense focus, hair windswept, wearing a sleek black athletic shirt, tactical cargo pants, and professional orange-accented motocross boots. Environment & Atmosphere: Setting: A rocky, uneven desert trail at golden hour. Dynamic Effects: Massive clouds of dust and gravel are kicked up by the rear tire, creating a sense of high speed and motion. Background: Jagged mountain silhouettes under a vibrant sunset sky filled with warm orange and soft blue hues. Style & Technical Specs: Lighting: Dramatic backlighting from the setting sun, creating a rim-light effect on the rider and highlighting the texture of the floating dust. Composition: Low-angle shot to emphasize the power of the bike and the scale of the terrain; shallow depth of field with the background mountains softly blurred. Aesthetic: High-contrast, gritty realism, hyper-detailed textures on the dirt, metal, and clothing. Professional photography style.",
+    "title": "Desert Motocross Action Shot",
+    "description": "A cinematic action shot of a determined female motocross rider racing through a rugged desert landscape at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014237357_do9yem_HGlEBMbXgAAMr2a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14705,
+    "content": "Prompt for Pic 1:\n\"A canvas print of a surreal artwork featuring a {argument name=\"main figure\" default=\"figure with a cassette-player head and a light blue hoodie\"}, standing against a {argument name=\"background color\" default=\"gold-colored background\"} with red gerbera flowers and a butterfly. Below the artwork, the text '{argument name=\"footer text\" default=\"MECHANICAL BLISS - EDITION 01\"}' is printed. Above the figure, the word 'serenity' is written in a stylized font.\"\n\nPrompt For Pic 2:\n\"A canvas print of a surreal artwork featuring a masked figure with a white plumeria flower crown and a katana, clad in a detailed teal-blue cloak against a rich, textured crimson background. The artwork has a vintage feel with visible canvas texture and subtle gold accents. Below the figure, the text 'SAMURAI BLOSSOM - EDITION 01' is printed. Above the figure, the word 'serenity' is written in a stylized font.\"",
+    "title": "Surreal Canvas Art Edition Prompts",
+    "description": "Prompts for generating surreal canvas art with specific characters, text labels, and vintage textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927636889_swt7ya_HGgjLnuakAIxC0i.jpg",
+      "https://cms-assets.youmind.com/media/1776927636832_q9dx2e_HGgjLvEaIAAsefl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14704,
+    "content": "A high-fashion cinematic prompt for a woman in a couture gown galloping on a horse across desert dunes at sunset.",
+    "title": "Cinematic Desert Horse Rider",
+    "description": "A high-fashion cinematic prompt for a woman in a couture gown galloping on a horse across desert dunes at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927636435_mjs2b8_HGgGOIMWkAIJFrs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14706,
+    "content": "{\n  \"image_style\": \"{argument name=\\\"image style\\\" default=\\\"Cinematic Action Collage\\\"}\",\n  \"layout\": \"Diagonal 4-panel split-screen\",\n  \"effects\": [\"Radial speed lines\", \"High contrast\", \"Manga-inspired borders\"],\n  \"panels\": [\n    {\n      \"position\": \"top_left\",\n      \"subject\": \"Woman with sword\",\n      \"outfit\": \"Black leather jacket\",\n      \"color_palette\": \"{argument name=\\\"primary color\\\" default=\\\"Emerald green\\\"}\",\n      \"vibe\": \"Heroic action\"\n    },\n    {\n      \"position\": \"top_right\",\n      \"subject\": \"Man in navy coat\",\n      \"outfit\": \"Professional winter attire\",\n      \"color_palette\": \"Electric blue\",\n      \"vibe\": \"Sophisticated urban\"\n    },\n    {\n      \"position\": \"bottom_left\",\n      \"subject\": \"Fashionable woman\",\n      \"outfit\": \"Orange tailored jumpsuit\",\n      \"color_palette\": \"Golden amber\",\n      \"vibe\": \"Elegant glamour\"\n    },\n    {\n      \"position\": \"bottom_right\",\n      \"subject\": \"Man in biker jacket\",\n      \"outfit\": \"Black leather motorcycle jacket\",\n      \"color_palette\": \"Deep crimson red\",\n      \"vibe\": \"Intense brooding\"\n    }\n  ],\n  \"render_quality\": \"{argument name=\\\"render quality\\\" default=\\\"Masterpiece, 8k, photorealistic characters, volumetric lighting\\\"}\"\n}",
+    "title": "Cinematic Action Collage Split-Screen",
+    "description": "A detailed JSON-structured prompt for creating a dynamic four-panel action collage with specific character outfits and cinematic lighting styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927637250_xul55d_HGfgKuwWsAAG2Vo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14711,
+    "content": "vintage monochrome illustration, black and white only, high contrast shadows, retro print style, subtle paper texture, grain effect, old poster aesthetic",
+    "title": "Vintage Monochrome Illustration Prompt",
+    "description": "An artistic prompt for Nano Banana Pro to create retro-style, high-contrast monochrome posters with paper textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927639959_r9s8xh_HGelIZTagAA3g-c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14293,
+    "content": "Create a vertical poster collage design. The bg consists of four stacked horizontal rounded rectangles. Inside these panels are {argument name=\"colors\" default=\"skyblue and white\"} cinematic shots of a {argument name=\"subject\" default=\"woman\"} in various poses. Superimposed in the foreground on the left side is a full-color, high-quality cutout of the same woman wearing an unbuttoned skyblue sacket, striking a cool pose. The foreground figure has white sticker-style outline. At the top left, bold “ {argument name=\"text\" default=\"NEWER GIVE UP\"} “",
+    "title": "Vertical Poster Collage Design",
+    "description": "A prompt for creating a creative vertical poster collage featuring a woman in various cinematic poses with sticker-style outlines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841960870_xwoxq9_HGc4gKqbYAAeOwX.jpg"
+    ],
+    "needReferenceImages": false
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 15131,
+    "content": "Subject: image1 - use the uploaded photo as the exact face reference (100% facial accuracy). Do not change facial features, proportions, skin texture, or expression. Keep my natural dark facial tone, no extra brightness or whitening.\n\n(Use face reference exactly.)\n\nA dreamlike, movie-quality augmented-reality street scene. I am {argument name=\"pose\" default=\"leaning casually against a streetlight on an Indian city street, wearing an open yellow hoodie, black jeans, and white sneakers, holding a phone and looking at its screen\"}.\n\nAround me, multiple floating Spotify/Apple-Music style player cards orbit in full 3D space. Some cards appear in front, partially overlapping my body, while others float behind and beside me at varying depths. The UI cards have rounded corners, slight perspective tilt, translucent frosted-glass look, soft glowing edges, playback bars, and album art featuring songs by {argument name=\"artist\" default=\"[Artist Name]\"}.\n\nLighting is {argument name=\"lighting\" default=\"cool-to-neutral with preserved shadows, subtle cinematic bloom, and natural interaction between Ul glow and street lighting\"}. Foreground cards are sharp; distant cards softly blurred for depth. Medium-high contrast, realistic motion accents.\n\nPhotorealistic subject, central composition, seamless blend of real environment and AR visuals.",
+    "title": "AR Augmented Reality Street Scene",
+    "description": "A cinematic prompt that merges a real street scene with floating digital AR elements like music player cards, using a reference for facial accuracy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014236208_kim2nc_HGlomLvaQAETCSv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14295,
+    "content": "geometric low-poly 3D art style made of triangles,\nclean vector-like lines,\nsoft pastel color palette,\nmodern minimalist wallpaper aesthetic,\nhigh resolution,\nsoft lighting,\nsmooth shading,\n{argument name=\"character description\" default=\"cute and charming character\"},\ncentered composition",
+    "title": "Low-Poly Geometric Character Art",
+    "description": "A stylized prompt for creating minimalist low-poly 3D characters using geometric triangles and soft pastel colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841962246_8azhgm_HGZgK-JbgAAFRl2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13414,
+    "content": "A surreal, ethereal landscape at night featuring a serene body of water reflecting a large, luminous full moon in the center of a misty, soft-toned sky. On the left, a {argument name=\"plant\" default=\"delicate tree with glowing pink and cyan blossoms\"} stands on a rocky islet. On the right, an {argument name=\"building\" default=\"ornate, multi-tiered traditional Japanese pagoda\"} glows with vibrant pink and teal neon light, perched atop a rocky formation. A graceful, arched bridge connects the two islets, also glowing with a soft pink light. The entire scene is bathed in a {argument name=\"style\" default=\"dreamy, vaporwave-inspired color palette of soft pinks, cyans, and hazy grays\"}, with a gentle, magical atmosphere, high-detail 3D render, cinematic lighting, and a calm, tranquil aesthetic.",
+    "title": "Surreal Vaporwave Night Landscape",
+    "description": "A surreal night landscape prompt featuring a Japanese pagoda, glowing trees, and a full moon in a vaporwave color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495135615_grnwcw_HGG-DD6XwAAeyLo.jpg",
+      "https://cms-assets.youmind.com/media/1776495135641_47rudu_HGG-DsCWAAA7-tb.jpg"
+    ],
+    "needReferenceImages": false
+  }
+]

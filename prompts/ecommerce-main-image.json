@@ -1,0 +1,84 @@
+[
+  {
+    "id": 14289,
+    "content": "{\n  \"image_generation_prompt\": {\n    \"goal\": \"Ultra-realistic smartphone mirror selfie of a {argument name=\"subject\" default=\"female fashion store owner\"} showcasing her {argument name=\"outfit description\" default=\"outfit\"}, indistinguishable from a real Instagram post.\",\n    \"identity_consistency\": {\n      \"priority\": \"critical\",\n      \"reference\": \"Use uploaded image as absolute truth\",\n      \"match\": [\n        \"face (100% identical)\",\n        \"body type & proportions\",\n        \"skin tone & texture (pores, imperfections)\",\n        \"hair (color, density, natural strands)\"\n      ],\n      \"rules\": [\n        \"No stylization or modification\",\n        \"Same person, not a generic model\"\n      ]\n    },\n    \"outfit_accuracy\": {\n      \"priority\": \"extreme\",\n      \"reference_required\": true,\n      \"match\": [\n        \"fabric, folds, stitching, fit\",\n        \"wrinkles, tension\",\n        \"colors (exact)\",\n        \"layering & proportions\"\n      ],\n      \"behavior\": \"Natural wear with realistic gravity and body interaction\",\n      \"rules\": [\n        \"Do not redesign, simplify, or improve\",\n        \"Exact recreation (virtual fitting)\"\n      ]\n    },\n    \"environment\": {\n      \"type\": \"{argument name=\"environment\" default=\"realistic boutique store\"}\",\n      \"elements\": [\"mirrors\", \"clothing racks\", \"decor\"],\n      \"lighting\": \"soft, slightly warm retail lighting\",\n      \"depth\": \"realistic spatial depth\"\n    },\n    \"scene\": {\n      \"action\": [\n        \"holding smartphone\",\n        \"taking mirror selfie\",\n        \"looking at phone screen\"\n      ],\n      \"pose\": \"natural, relaxed, confident, slight hip shift\",\n      \"energy\": \"fashion entrepreneur\"\n    },\n    \"camera\": {\n      \"type\": \"smartphone\",\n      \"aspect_ratio\": \"5:7 vertical\",\n      \"framing\": \"mid to full body\",\n      \"features\": [\n        \"slight perspective distortion\",\n        \"accurate mirror alignment\"\n      ]\n    },\n    \"lighting_realism\": {\n      \"style\": \"natural store lighting, soft shadows, warm tone\",\n      \"restrictions\": [\"no studio lighting\", \"no over-lighting\"],\n      \"skin\": \"visible pores, micro-imperfections, subtle shine, no airbrushing\"\n    },\n    \"realism_details\": {\n      \"clothing\": \"visible texture, natural folds & pressure\",\n      \"mirror\": \"accurate reflections (phone, arms, depth)\",\n      \"hands\": \"anatomically correct, natural grip\",\n      \"imperfections\": [\n        \"slight noise\",\n        \"minor lighting inconsistencies\",\n        \"depth falloff\"\n      ]\n    },\n    \"visual_style\": {\n      \"aesthetic\": \"instagram fashion\",\n      \"color\": \"natural grading, no HDR\",\n      \"avoid\": [\n        \"CGI look\",\n        \"over-sharpening\",\n        \"artificial smoothness\"\n      ]\n    },\n    \"final_expectation\": \"Feels like a real boutique owner casually posting a mirror selfie in her store.\"\n  }\n}",
+    "title": "Ultra-Realistic Boutique Mirror Selfie",
+    "description": "A detailed technical prompt for generating a hyper-realistic smartphone mirror selfie of a boutique owner for Instagram.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841959720_pnd2qd_HGb34wQbsAAwG46.jpg",
+      "https://cms-assets.youmind.com/media/1776841959729_0aprtp_HGb34zJbcAAEef9.jpg",
+      "https://cms-assets.youmind.com/media/1776841959692_4lnv1d_HGb34zWaUAEKyqY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14279,
+    "content": "A cinematic lifestyle shot of a well-dressed man riding a vintage cream-colored scooter through a {argument name=\"location\" default=\"historic European street\"}. He wears {argument name=\"clothing\" default=\"a tailored black suit, white shirt, and black tie\"}, with polished dress shoes, giving a confident and elegant look. The setting features old stone buildings, a cobblestone road, and a classic fountain, with a grand cathedral softly blurred in the background. {argument name=\"lighting\" default=\"Golden hour lighting\"} casts warm tones and soft shadows, creating a timeless, romantic atmosphere. Slight motion blur on the surroundings, shallow depth of field, 50mm lens, f/1.8, ultra-realistic detail, luxury travel aesthetic, editorial fashion photography, 8K.",
+    "title": "Vintage European Scooter Ride",
+    "description": "A lifestyle prompt for Nano Banana Pro featuring an elegant man riding a vintage scooter in a European city at golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776841955901_7zxsup_HGZa_M9bEAAdg6T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13569,
+    "content": "nature inspired atmospheric organicism: A nature-inspired atmospheric product advertisement for \"{argument name=\"brand name\" default=\"VERDANA Organic Baby Skincare\"}\". A small amber glass bottle and a matching cream jar rest beautifully nestled inside a bed of {argument name=\"botanical elements\" default=\"fresh green sage leaves, sprigs of dried purple lavender, and draped soft white linen cloth\"}, all placed on a warm, sunlit rustic wooden surface. The background is in soft-focus with a shallow depth of field, featuring blurred terracotta wall textures accented with climbing ivy. Hand-drawn, illustrative typography reading exactly \"{argument name=\"slogan\" default=\"GROWN FROM THE EARTH\"}\" floats gently above the products in slightly imperfect, organic, elegant letterforms. The overall color palette is muted and earthy, heavily featuring sage green, terracotta, warm ochre, and slate cream. Broad natural window lighting creates a soft, honest, and evenly diffused illumination across the scene. The image features a subtle chalk and watercolor paper texture overlay, offering an open, airy composition with generous negative space, evoking a deep sense of warmth, purity, and calm. Moderately high artistic stylization. 4:5 Aspect Ratio.",
+    "title": "Organic Skincare Product Advertisement",
+    "description": "A nature-inspired atmospheric product advertisement prompt for organic baby skincare, featuring botanical elements and rustic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668952833_doyyp5_HGHEJ-zb0AAhHMA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13430,
+    "content": "Premium cosmetic product shot of a {argument name=\"product\" default=\"red glass dropper serum bottle\"} emerging from a dramatic water splash ring, surrounded by floating {argument name=\"fruit\" default=\"ripe strawberries\"} and water droplets frozen in motion, reflective wet {argument name=\"color\" default=\"pink\"} surface, pastel pink background, bright studio lighting, high-speed photography look, hyper-realistic texture, luxury skincare advertisement, macro product photography, cinematic lighting, 8k, depth of field.",
+    "title": "Luxury Cosmetic Product Shot",
+    "description": "High-speed photography style prompt for a luxury skincare product with dynamic water splashes and fruit elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582156581_ujnp3b_HGMvVHfaEAAhsbw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13423,
+    "content": "Ultra-realistic top-down product photography of a neatly folded V-neck t-shirt placed on a light wooden surface. The t-shirt is pastel teal/washed aqua color with a soft fabric texture and subtle faded shading. On the front print: a group of 8 highly detailed, stylized cartoon-realistic cats arranged closely together, facing forward. Each cat has exaggerated, expressive facial features — big glossy eyes, wide pupils, quirky crossed eyes, and playful goofy expressions. Several cats have their tongues sticking out in different directions, creating a humorous and chaotic vibe. Cat details: Mixed fur colors: ginger/orange tabby, cream, beige, light brown, and grey tones Soft, fluffy fur with hyper-detailed strands Rounded faces, small noses, and slightly chubby cheeks Variety of expressions: surprised, confused, silly, excited One or two cats looking slightly cross-eyed High emotional exaggeration, almost Pixar-style but more detailed Composition: Cats tightly grouped in a triangular cluster filling the chest print area Bottom row slightly cropped by shirt fold for realism Balanced spacing with layered depth (front and back rows) Lighting: Soft diffused studio lighting Gentle shadows under the folds and around the print Even illumination, no harsh contrast Style: Hyper-realistic + stylized 3D illustration blend High resolution, crisp details, professional product mockup Clean background, minimalistic aesthetic Camera: Top-down flat lay shot Slight perspective depth but mostly symmetrical Quality tags: 8K, ultra-detailed, sharp focus, photorealistic fabric texture, professional e-commerce product shot.",
+    "title": "Cartoon Cat Group T-Shirt Mockup",
+    "description": "A professional product photography prompt for a teal t-shirt featuring a cluster of expressive cartoon cats.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582153538_vsodvv_HGKny8SbsAAd40N.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13399,
+    "content": "turn this into a photorealism of a {argument name=\"car type\" default=\"clean car\"}, make all decals and stickers on the car real and meaningful, car on a {argument name=\"background\" default=\"white background\"}",
+    "title": "Photorealistic Car Transformation",
+    "description": "A prompt designed to transform an image into a photorealistic clean car with authentic decals on a plain background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776495126356_q7wva8_HGJHpKlaYAAoe_p.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13390,
+    "content": "In mid-air, a {argument name=\"fruit\" default=\"dragon fruit\"} splits explosively, scattering vibrant magenta pulp and tiny black seeds, with a \"{argument name=\"brand\" default=\"Minute Maid Dragon Fruit Juice\"}\" bottle blasting out from the core. Styled as hyperrealistic product photography, Sony A7s clarity, sharp HD. Background is {argument name=\"background color\" default=\"neon pink-magenta\"}.",
+    "title": "Explosive Dragon Fruit Juice Photography",
+    "description": "A product photography prompt for an explosive dragon fruit juice scene, designed for high clarity and specific color aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776409691017_11m437_HGCJ3GMaoAAjo-w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13369,
+    "content": "\"{argument name=\"subject\" default=\"Chronograph\"} with {argument name=\"strap\" default=\"leather strap\"}. Studio macro, overhead spotlight, escapement close-up. {argument name=\"background\" default=\"Dark matte background\"}. Shallow depth of field. Photorealistic.\"",
+    "title": "Luxury Chronograph Macro Design",
+    "description": "A high-end macro photography prompt for a luxury watch focusing on movement details and material textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776137524476_wesjcj_HFq3eagWsAAkWJk.jpg"
+    ],
+    "needReferenceImages": false
+  }
+]
