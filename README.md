@@ -1,5 +1,7 @@
 # Awesome YourRender Prompts
 
+![7L Grammar — The anatomy of a production-grade AI prompt](docs/images/hero-7l-grammar-1x1.png)
+
 > **[NEW] 7L Grammar White Paper released — the canonical prompt structure behind this repo: [docs/whitepaper-grammar-7l.md](docs/whitepaper-grammar-7l.md)**
 
 > **100+ professional AI image & video prompts, curated by [YourRender.ai](https://yourrender.ai) — battle-tested in real client production.**
