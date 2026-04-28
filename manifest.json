@@ -1,7 +1,13 @@
 {
   "name": "awesome-yourrender-prompts",
-  "totalPrompts": 100,
+  "totalPrompts": 110,
   "categories": [
+    {
+      "slug": "creator-portraits-worldwide",
+      "title": "Creator Portraits Worldwide",
+      "file": "prompts/creator-portraits-worldwide.json",
+      "count": 10
+    },
     {
       "slug": "social-media-post",
       "title": "Social Media Post",
