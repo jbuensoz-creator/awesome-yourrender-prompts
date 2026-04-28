@@ -1,5 +1,7 @@
 # Awesome YourRender Prompts
 
+> **[NEW] 7L Grammar White Paper released — the canonical prompt structure behind this repo: [docs/whitepaper-grammar-7l.md](docs/whitepaper-grammar-7l.md)**
+
 > **100+ professional AI image & video prompts, curated by [YourRender.ai](https://yourrender.ai) — battle-tested in real client production.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Prompts](https://img.shields.io/badge/Prompts-100%2B-blue) ![Categories](https://img.shields.io/badge/Categories-11-green)
